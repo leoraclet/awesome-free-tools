@@ -1,10 +1,10 @@
 # 💸 Awesome Free Tools
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/anhostfr/compress.lol)](https://github.com/leoraclet/awesome-free-tools/issues)
+[![GitHub issues](https://img.shields.io/github/issues/leoraclet/awesome-free-tools)](https://github.com/leoraclet/awesome-free-tools/issues)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> _"Find what you are looking for"_ ⚡
+> _"Find what you are looking for !"_
 >
 > **A curated list of awesome free tools for common everyday tasks**
 
@@ -17,6 +17,12 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 >
 > Alternatively, use **Ctrl+F** to search for popular software to find their alternative free tools.
 
+## 🎯 Purpose
+
+Most **"Awesome"** repositories provide an extensive list of applications, but I often find them overwhelming when I'm just looking for the **best alternatives** or tools for my specific needs.
+
+This repository is my curated collection of the **best tools** I know, use, or have used in each category. The tools listed here are ones I _personally_ recommend based on my experience. While this list is currently personal, it may evolve as others contribute.
+
 ## 🔖 Legend
 
 | Icon | Meaning     | Icon | Meaning            | Icon | Meaning               |
@@ -28,17 +34,20 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 
 ## 📚 Table of contents
 
+- [🎯 Purpose](#-purpose)
 - [🔖 Legend](#-legend)
 - [📚 Table of contents](#-table-of-contents)
 - [🔭 Tools](#-tools)
     - [🖥️ Core System](#️-core-system)
         - [Operating Systems](#operating-systems)
+        - [Phone OS](#phone-os)
     - [🌐 Internet \& Communication](#-internet--communication)
         - [Browsers](#browsers)
         - [Email Clients](#email-clients)
         - [File Sharing](#file-sharing)
         - [Messaging Apps](#messaging-apps)
         - [Video Conferencing](#video-conferencing)
+        - [Download Manager](#download-manager)
     - [💾 Storage \& Security](#-storage--security)
         - [Cloud Storage](#cloud-storage)
         - [Encryption Tools](#encryption-tools)
@@ -47,7 +56,7 @@ This repository focuses on **quality over quantity**, listing only a few outstan
     - [🧰 Productivity](#-productivity)
         - [Code Development](#code-development)
         - [Document Writing](#document-writing)
-        - [Note Taking](#note-taking)
+        - [Note-Taking](#note-taking)
         - [PDF Tools](#pdf-tools)
     - [🎨 Creativity \& Design](#-creativity--design)
         - [3D Modeling](#3d-modeling)
@@ -73,9 +82,10 @@ This repository focuses on **quality over quantity**, listing only a few outstan
         - [Large Language Model (LLM)](#large-language-model-llm)
         - [Video Generation](#video-generation)
         - [Voice generation / cloning](#voice-generation--cloning)
-        - [Agents](#agents)
+        - [Coding Agents](#coding-agents)
+- [📚 Useful Resources](#-useful-resources)
 - [🤝 Contributing](#-contributing)
-    - [Submission Rules](#submission-rules)
+    - [Submission Guideline](#submission-guideline)
 - [📜 License](#-license)
 
 ## 🔭 Tools
@@ -89,7 +99,7 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 
 #### Operating Systems
 
-`Alternatives to: ...`
+`Alternatives to: Windows, MacOS, ...`
 
 - [Arch Linux](https://archlinux.org/) — Lightweight, customizable rolling-release distro.
   **🧠💻**
@@ -101,6 +111,23 @@ This repository focuses on **quality over quantity**, listing only a few outstan
   **🧠💻**
 - [Ubuntu](https://ubuntu.com/) — User-friendly Linux distribution for all users.
   **🧠💻**
+
+<details>
+<summary>Honorable Mentions</summary>
+</details>
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+#### Phone OS
+
+`Alternatives to: Google Android, IOS, ...`
+
+- [Graphene OS](https://grapheneos.org/build#building-grapheneos) — The private and secure mobile operating system with Android app compatibility. 📱
+- [Lineage OS](https://lineageos.org/) — A free and open-source operating system for various devices, based on the Android mobile platform. 📱
+
+<details>
+<summary>Honorable Mentions</summary>
+</details>
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
@@ -123,7 +150,7 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 <summary>Honorable Mentions</summary>
 
 - [Bromite](https://www.bromite.org/) _(Android)_ — Chromium-based privacy browser.
-  **🧠🔒**
+  **🧠🔒📱**
 - [Tor Browser](https://www.torproject.org/) — Browser for anonymity and censorship circumvention.
   **🧠🔒💻**
 - [Waterfox](https://www.waterfox.net/) — Firefox-based browser focused on minimal data collection.
@@ -137,15 +164,17 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 
 #### Email Clients
 
-`Alternatives to: ...`
+`Alternatives to: Gmail, Outlook, ...`
 
 - [Mailspring](https://getmailspring.com/) — Cross-platform email client with modern UI.
-  **☁️💻**
+  **💻**
 - [Thunderbird](https://www.thunderbird.net/) — Secure open-source email client with encryption support.
   **🧠🔒💻**
 
 <details>
 <summary>Honorable Mentions</summary>
+
+- [FairMail](https://email.faircode.eu/) — Fully featured, privacy oriented email app for Android **🧠🔒📱**
 
 </details>
 
@@ -158,7 +187,7 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 `Alternatives to: ...`
 
 - [Dropshare](https://dropshare.app/) — Cloud-integrated file sharing tool with short links.
-  **☁️💻**
+  **💻**
 - [Localsend](https://localsend.org/) — Cross-platform local file sharing without internet.
   **🧠🔒🏠💻**
 - [Send](https://send.vis.ee/) — Encrypted file transfer tool inspired by Firefox Send.
@@ -220,18 +249,34 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 
 ---
 
+#### Download Manager
+
+`Alternatives to: ...`
+
+- [Motrix](https://github.com/agalwood/Motrix) — A full-featured download manager.
+  🧠🍎💻🐧
+- [Brisk](https://github.com/BrisklyDev/brisk) — Ultra-fast, modern download manager for desktop. 🧠🍎💻🐧
+
+<details>
+<summary>Honorable Mentions</summary>
+</details>
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+---
+
 ### 💾 Storage & Security
 
 #### Cloud Storage
 
-`Alternatives to: ...`
+`Alternatives to: ICloud, Google Drive, Dropbox, ...`
 
 - [Mega](https://mega.io/) — Encrypted cloud storage with E2EE.
-  **🔒☁️💻**
+  **🔒💻**
 - [Nextcloud](https://nextcloud.com/) — Self-hosted cloud and collaboration suite.
   **🧠🔒🏠💻**
 - [Proton Drive](https://proton.me/drive) — Secure encrypted cloud from Proton.
-  **🔒☁️💻**
+  **🔒💻**
 
 <details>
 <summary>Honorable Mentions</summary>
@@ -248,7 +293,7 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 - [7-Zip](https://www.7-zip.org/) — File archiver with strong AES-256 encryption.
   **🧠💻**
 - [Hat.sh](https://hat.sh/) — Browser-based modern file encryption.
-  **🧠🔒☁️💻**
+  **🧠🔒💻**
 - [VeraCrypt](https://www.veracrypt.fr/) — Powerful open-source disk encryption.
   **🧠🔒💻**
 
@@ -268,16 +313,16 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 
 #### Password Managers
 
-`Alternatives to: ...`
+`Alternatives to: LastPass, Dashlane, ...`
 
 - [Bitwarden](https://bitwarden.com/) — Open-source password manager with cloud sync.
-  **🧠🔒☁️💻**
+  **🧠🔒💻**
 - [KeePass](https://keepass.info/) — Offline password manager with strong encryption.
   **🧠🔒🏠💻**
 - [KeePassXC](https://keepassxc.org/) — Cross-platform KeePass fork.
   **🧠🔒💻**
 - [Proton Pass](https://proton.me/pass) — Secure password manager by Proton.
-  **🔒☁️💻**
+  **🔒💻**
 
 <details>
 <summary>Honorable Mentions</summary>
@@ -292,9 +337,9 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 `Alternatives to: ...`
 
 - [Aegis](https://getaegis.app/) — Secure local 2FA app for Android.
-  **🧠🔒**
+  **🧠🔒📱**
 - [Proton Authenticator](https://proton.me/fr/authenticator) — Encrypted 2FA app from Proton.
-  **🔒**
+  **🔒📱**
 
 <details>
 <summary>Honorable Mentions</summary>
@@ -314,7 +359,7 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 - [Git](https://git-scm.com/) — Distributed version control system.
   **🧠💻**
 - [GitKraken](https://www.gitkraken.com/) — Visual Git client for easy repo management.
-  **☁️💻**
+  **💻**
 - [Neovim](https://neovim.io/) — Extensible and modern Vim-based editor.
   **🧠💻**
 - [VSCode](https://code.visualstudio.com/) — Extensible editor with rich ecosystem.
@@ -335,9 +380,9 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 - [LibreOffice](https://www.libreoffice.org/) — Open-source offline office suite.
   **🧠💻**
 - [OnlyOffice](https://www.onlyoffice.com/) — Collaborative office suite compatible with MS formats.
-  **🧠☁️🏠💻**
+  **🧠🏠💻**
 - [Overleaf](https://www.overleaf.com/) — Online LaTeX editor for research and academics.
-  **☁️💻**
+  **💻**
 
 <details>
 <summary>Honorable Mentions</summary>
@@ -353,7 +398,7 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 
 ---
 
-#### Note Taking
+#### Note-Taking
 
 `Alternatives to: ...`
 
@@ -366,9 +411,9 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 <summary>Honorable Mentions</summary>
 
 - [Joplin](https://joplinapp.org/) — Open-source encrypted note-taking app.
-  **🧠🔒☁️💻**
+  **🧠🔒💻**
 - [Standard Notes](https://standardnotes.com/) — Privacy-focused encrypted notes app.
-  **🧠🔒☁️💻**
+  **🧠🔒💻**
 
 </details>
 
@@ -381,7 +426,7 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 `Alternatives to: ...`
 
 - [Stirling](https://github.com/Stirling-Tools/Stirling-PDF/) — Web-based PDF tool suite for editing and conversion.
-  **🧠☁️💻**
+  **🧠💻**
 
 <details>
 <summary>Honorable Mentions</summary>
@@ -458,7 +503,7 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 `Alternatives to: ...`
 
 - [Excalidraw](https://excalidraw.com/) — Collaborative whiteboard for diagrams.
-  **🧠☁️💻**
+  **🧠💻**
 - [Inkscape](https://inkscape.org/) — Professional vector graphics editor.
   **🧠💻**
 
@@ -466,7 +511,7 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 <summary>Honorable Mentions</summary>
 
 - [Draw.io](https://app.diagrams.net/) — Diagram and flowchart design tool.
-  **🧠☁️💻**
+  **🧠💻**
 - [Krita](https://krita.org/) — Digital painting software for artists.
   **🧠💻**
 
@@ -483,7 +528,7 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 - [GIMP](https://www.gimp.org/) — Powerful raster graphics editor for photo retouching and image manipulation.
   **🧠**
 - [Photopea](https://www.photopea.com/) — Web-based image editor with Photoshop-like features.
-  **🧠☁️**
+  **🧠**
 - [Darktable](https://www.darktable.org/) — Photo workflow and RAW development tool.
   **🧠**
 
@@ -567,7 +612,7 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 `Alternatives to: ...`
 
 - [Compress.lol](https://compress.lol/) — Privacy-friendly online video compressor.
-  **🔒☁️💻**
+  **🔒💻**
 - [FFmpeg](https://ffmpeg.org/) — Command-line video and audio processing toolkit.
   **🧠💻**
 
@@ -610,7 +655,7 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 
 `Alternatives to: ...`
 
-- [Flameshot](https://flameshot.org/) - Powerful, yet simple to use open-source screenshot software.
+- [Flameshot](https://flameshot.org/) — Powerful, yet simple to use open-source screenshot software.
 
 <details>
 <summary>Honorable Mentions</summary>
@@ -636,7 +681,7 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 <summary>Honorable Mentions</summary>
 
 - [RealVNC](https://www.realvnc.com/) — Cross-platform remote desktop tool.
-  **☁️💻**
+  **💻**
 - [TigerVNC](https://tigervnc.org/) — Reliable VNC implementation.
   **🧠💻**
 
@@ -678,7 +723,7 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 - [Hastebin](https://hastebin.com/) — Simple self-hostable paste tool.
   **🧠🏠💻**
 - [Pastebin](https://pastebin.com/) — Online platform for sharing code snippets.
-  **☁️💻**
+  **💻**
 - [PrivateBin](https://privatebin.info/) — Encrypted, self-hostable pastebin.
   **🧠🔒🏠💻**
 
@@ -704,15 +749,11 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 
 #### AI Image Generation / Editing
 
-`Alternatives to: ...`
+`Alternatives to: Dall-E, ...`
 
-<details>
-<summary><a href="https://stabledifffusion.com/">Stabel Diffusion</a> — High-quality text-to-image model that turns your ideas into vivid, realistic visuals. </summary>
-
-- Features
-- Cool stuffs
-
-</details>
+- [Stable Diffusion](https://stabledifffusion.com/) — High-quality text-to-image model that turns your ideas into vivid, realistic visuals. </summary>
+- [Fooocus](https://github.com/lllyasviel/Fooocus) — Focus on prompting and generating.
+- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) — Stable Diffusion web UI.
 
 <details>
 <summary>Honorable Mentions</summary>
@@ -758,9 +799,12 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 
 ---
 
-#### Agents
+#### Coding Agents
 
 `Alternatives to: ...`
+
+- [OpenHands](https://github.com/OpenHands/OpenHands) — AI-Driven Development.
+- [Crush](https://github.com/charmbracelet/crush) — The glamorous AI coding agent for your favorite terminal.
 
 <details>
 <summary>Honorable Mentions</summary>
@@ -770,11 +814,18 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 
 ---
 
+## 📚 Useful Resources
+
+> [!NOTE]
+> A collection of links to blog posts or websites talking about great tools
+>
+> _To be filled in ..._
+
 ## 🤝 Contributing
 
 **Have a suggestion ?** Contribute by opening a pull request or submitting an issue.
 
-### Submission Rules
+### Submission Guideline
 
 - Limit entries to **5 tools per sub-category** (10 if absolutely necessary).
     - If a tool is noteworthy but doesn't fit the main list, add it to **_Honorable Mentions_**.
@@ -783,8 +834,8 @@ This repository focuses on **quality over quantity**, listing only a few outstan
 - Follow the **existing format** for consistency.
 - Prefer tools that **do not require an account** (except for essential features like syncing between devices).
 - **Personal experience required**: Only list tools you have used yourself to ensure quality.
-- Add **corresponding emojies** for each tool.
-- Try to ensure that tools are listed in alphabetical order.
+- Add **corresponding emojis** for each tool.
+- If, possible, try to ensure that tools are listed in alphabetical order.
 
 ## 📜 License
 
