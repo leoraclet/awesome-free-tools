@@ -21,6 +21,9 @@ Most **"Awesome"** repositories provide an extensive list of applications, but I
 
 This repository is my curated collection of the **best tools** I know, use, or have used in each category. The tools listed here are ones I _personally_ recommend based on my experience. While this list is currently personal, it may evolve as others contribute.
 
+> [!IMPORTANT]
+> While all tools presented here are free, this repository focuses primarily on **open-source** and **privacy-friendly** tools.
+
 ## 🔖 Legend
 
 | Icon | Meaning     | Icon | Meaning            | Icon | Meaning               |
@@ -40,7 +43,11 @@ This repository is my curated collection of the **best tools** I know, use, or h
         - [Operating Systems](#operating-systems)
         - [Phone OS](#phone-os)
     - [🌐 Internet \& Communication](#-internet--communication)
+        - [Code Sharing](#code-sharing)
+        - [Encrypted DNS](#encrypted-dns)
+        - [Remote Desktop / VNC](#remote-desktop--vnc)
         - [Browsers](#browsers)
+        - [Web Search](#web-search)
         - [Email Clients](#email-clients)
         - [File Sharing](#file-sharing)
         - [Messaging Apps](#messaging-apps)
@@ -70,26 +77,17 @@ This repository is my curated collection of the **best tools** I know, use, or h
         - [Torrent Clients](#torrent-clients)
         - [Screenshot Tools](#screenshot-tools)
     - [🗺️ Maps \& Remote Access](#️-maps--remote-access)
-        - [Remote Desktop / VNC](#remote-desktop--vnc)
         - [World Maps](#world-maps)
-    - [💬 Code \& Text Sharing](#-code--text-sharing)
-        - [Code Sharing](#code-sharing)
     - [🦾 Artificial Intelligence (AI)](#-artificial-intelligence-ai)
-        - [General](#general)
         - [AI Image Generation / Editing](#ai-image-generation--editing)
-        - [Large Language Model (LLM)](#large-language-model-llm)
-        - [Video Generation](#video-generation)
-        - [Voice generation / cloning](#voice-generation--cloning)
         - [Coding Agents](#coding-agents)
-- [📚 Useful Resources](#-useful-resources)
+        - [Speech Recognition](#speech-recognition)
 - [📜 License](#-license)
 
 ## 🔭 Tools
 
 > [!IMPORTANT]
-> Most of the tools listed below are ones I currently use or have used in the past.
->
-> Others are popular or have been used by contributors.
+> Most of the tools listed below are ones I currently use or have used in the past. Others are included based on their popularity or recommendations from contributors.
 
 ### 🖥️ Core System
 
@@ -108,10 +106,6 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [Ubuntu](https://ubuntu.com/) — User-friendly Linux distribution for all users.
   **🧠💻🐧**
 
-<details>
-<summary>Honorable Mentions</summary>
-</details>
-
 [**`^        back to top        ^`**](#-table-of-contents)
 
 #### Phone OS
@@ -121,13 +115,47 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [Graphene OS](https://grapheneos.org/build#building-grapheneos) — The private and secure mobile operating system with Android app compatibility. 📱🧠🐧
 - [Lineage OS](https://lineageos.org/) — A free and open-source operating system for various devices, based on the Android mobile platform. 📱🧠🐧
 
-<details>
-<summary>Honorable Mentions</summary>
-</details>
-
 [**`^        back to top        ^`**](#-table-of-contents)
 
 ### 🌐 Internet & Communication
+
+#### Code Sharing
+
+`Alternatives to: Pastebin, ...`
+
+- [Hastebin](https://hastebin.com/) — Simple self-hostable paste tool.
+  **🧠🏠💻**
+- [PrivateBin](https://privatebin.info/) — Encrypted, self-hostable pastebin.
+  **🧠🔒🏠💻**
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+#### Encrypted DNS
+
+- [Quad9](https://quad9.net/0) — An open DNS recursive service for free security and high privacy
+- [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) — A flexible DNS proxy, with support for encrypted DNS protocols.
+- [Cloudfare](https://one.one.one.one/) — High Performance DNS Resolver.
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+#### Remote Desktop / VNC
+
+`Alternatives to: Remote Desktop, ...`
+
+- [Remmina](https://remmina.org/) — Multi-protocol remote desktop client.
+  **🧠💻**
+- [RustDesk](https://rustdesk.com/) — Secure, self-hosted remote desktop software.
+  **🧠🔒🏠💻**
+
+<details>
+<summary>Honorable Mentions</summary>
+
+- [RealVNC](https://www.realvnc.com/) — Cross-platform remote desktop tool.
+  **💻**
+- [TigerVNC](https://tigervnc.org/) — Reliable VNC implementation.
+  **🧠💻**
+
+</details>
 
 #### Browsers
 
@@ -154,6 +182,13 @@ This repository is my curated collection of the **best tools** I know, use, or h
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
+#### Web Search
+
+- [Brave Search](https://search.brave.com/) — A completely independent index without tracking.
+- [DuckDuckGo](https://duckduckgo.com/) — Privacy and avoiding the filter bubble of personalized results.
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
 #### Email Clients
 
 `Alternatives to: Gmail, Outlook, ...`
@@ -164,7 +199,7 @@ This repository is my curated collection of the **best tools** I know, use, or h
 <details>
 <summary>Honorable Mentions</summary>
 
-- [FairMail](https://email.faircode.eu/) — Fully featured, privacy oriented email app for Android **🧠🔒📱**
+- [FairMail](https://email.faircode.eu/) _(Android)_ — Fully featured, privacy oriented email app for Android **🧠🔒📱**
 
 </details>
 
@@ -172,7 +207,7 @@ This repository is my curated collection of the **best tools** I know, use, or h
 
 #### File Sharing
 
-`Alternatives to: ...`
+`Alternatives to: Snapdrop, Discord (😆), ...`
 
 - [Dropshare](https://dropshare.app/) — Cloud-integrated file sharing tool with short links.
   **💻**
@@ -235,10 +270,6 @@ This repository is my curated collection of the **best tools** I know, use, or h
   🧠🍎💻🐧
 - [Brisk](https://github.com/BrisklyDev/brisk) — Ultra-fast, modern download manager for desktop. 🧠🍎💻🐧
 
-<details>
-<summary>Honorable Mentions</summary>
-</details>
-
 [**`^        back to top        ^`**](#-table-of-contents)
 
 ### 💾 Storage & Security
@@ -253,10 +284,6 @@ This repository is my curated collection of the **best tools** I know, use, or h
   **🧠🔒🏠💻**
 - [Proton Drive](https://proton.me/drive) — Secure encrypted cloud from Proton.
   **🔒💻**
-
-<details>
-<summary>Honorable Mentions</summary>
-</details>
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
@@ -296,10 +323,6 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [Proton Pass](https://proton.me/pass) — Secure password manager by Proton.
   **🔒💻**
 
-<details>
-<summary>Honorable Mentions</summary>
-</details>
-
 [**`^        back to top        ^`**](#-table-of-contents)
 
 #### Two-Factor Authentication (2FA)
@@ -327,10 +350,7 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [GitKraken](https://www.gitkraken.com/) — Visual Git client for easy repo management. 💻
 - [Neovim](https://neovim.io/) — Extensible and modern Vim-based editor. 🧠💻
 - [VSCodium](https://vscodium.com/) — Free/Libre Open Source Software Binaries of VS Code 💻
-
-<details>
-<summary>Honorable Mentions</summary>
-</details>
+- [Zed](https://github.com/zed-industries/zed) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
@@ -359,7 +379,7 @@ This repository is my curated collection of the **best tools** I know, use, or h
 
 #### Note-Taking
 
-`Alternatives to: ...`
+`Alternatives to: Notion, Evernote, OneNote, ...`
 
 - [Logseq](https://logseq.com/) — Open-source local-first note-taking tool.
   **🧠🔒🏠💻**
@@ -380,7 +400,7 @@ This repository is my curated collection of the **best tools** I know, use, or h
 
 #### PDF Tools
 
-`Alternatives to: ...`
+`Alternatives to: Adobe Acrobat, ...`
 
 - [Stirling](https://github.com/Stirling-Tools/Stirling-PDF/) — Web-based PDF tool suite for editing and conversion.
   **🧠💻**
@@ -396,21 +416,17 @@ This repository is my curated collection of the **best tools** I know, use, or h
 
 #### 3D Modeling
 
-`Alternatives to: 3ds Max, AutoCAD`
+`Alternatives to: 3DS Max, AutoCAD`
 
 - [Blender](https://www.blender.org/) — Complete 3D modeling and animation suite.
   **🧠💻**
 - [OneShape](https://www.onshape.com/en/pricing) — Web-based CAD and PDM tool
 
-<details>
-<summary>Honorable Mentions</summary>
-</details>
-
 [**`^        back to top        ^`**](#-table-of-contents)
 
 #### 3D Slicing
 
-`Alternatives to: ...`
+`Alternatives to: Bambu Studio, ...`
 
 - [Orca Slicer](https://github.com/SoftFever/OrcaSlicer) — Advanced slicer based on Bambu Studio.
   **🧠💻**
@@ -502,10 +518,6 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [VLC](https://www.videolan.org/) — Universal media player supporting all formats.
   **🧠💻**
 
-<details>
-<summary>Honorable Mentions</summary>
-</details>
-
 [**`^        back to top        ^`**](#-table-of-contents)
 
 #### Screen Recorders
@@ -554,6 +566,8 @@ This repository is my curated collection of the **best tools** I know, use, or h
   **🔒💻**
 - [FFmpeg](https://ffmpeg.org/) — Command-line video and audio processing toolkit.
   **🧠💻**
+- [VLC](https://www.videolan.org/) — Universal media player supporting all formats.
+  **🧠💻**
 
 <details>
 <summary>Honorable Mentions</summary>
@@ -601,25 +615,6 @@ This repository is my curated collection of the **best tools** I know, use, or h
 
 ### 🗺️ Maps & Remote Access
 
-#### Remote Desktop / VNC
-
-`Alternatives to: Remote Desktop, ...`
-
-- [Remmina](https://remmina.org/) — Multi-protocol remote desktop client.
-  **🧠💻**
-- [RustDesk](https://rustdesk.com/) — Secure, self-hosted remote desktop software.
-  **🧠🔒🏠💻**
-
-<details>
-<summary>Honorable Mentions</summary>
-
-- [RealVNC](https://www.realvnc.com/) — Cross-platform remote desktop tool.
-  **💻**
-- [TigerVNC](https://tigervnc.org/) — Reliable VNC implementation.
-  **🧠💻**
-
-</details>
-
 [**`^        back to top        ^`**](#-table-of-contents)
 
 #### World Maps
@@ -643,34 +638,7 @@ This repository is my curated collection of the **best tools** I know, use, or h
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
-### 💬 Code & Text Sharing
-
-#### Code Sharing
-
-`Alternatives to: ...`
-
-- [Hastebin](https://hastebin.com/) — Simple self-hostable paste tool.
-  **🧠🏠💻**
-- [Pastebin](https://pastebin.com/) — Online platform for sharing code snippets.
-  **💻**
-- [PrivateBin](https://privatebin.info/) — Encrypted, self-hostable pastebin.
-  **🧠🔒🏠💻**
-
-<details>
-<summary>Honorable Mentions</summary>
-</details>
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
 ### 🦾 Artificial Intelligence (AI)
-
-#### General
-
-<details>
-<summary>Honorable Mentions</summary>
-</details>
-
-[**`^        back to top        ^`**](#-table-of-contents)
 
 #### AI Image Generation / Editing
 
@@ -679,40 +647,6 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [Stable Diffusion](https://stabledifffusion.com/) — High-quality text-to-image model that turns your ideas into vivid, realistic visuals. </summary>
 - [Fooocus](https://github.com/lllyasviel/Fooocus) — Focus on prompting and generating.
 - [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) — Stable Diffusion web UI.
-
-<details>
-<summary>Honorable Mentions</summary>
-</details>
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-#### Large Language Model (LLM)
-
-`Alternatives to: ...`
-
-<details>
-<summary>Honorable Mentions</summary>
-</details>
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-#### Video Generation
-
-`Alternatives to: ...`
-
-<details>
-<summary>Honorable Mentions</summary>
-</details>
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-#### Voice generation / cloning
-
-`Alternatives to: ...`
-
-<details>
-<summary>Honorable Mentions</summary>
-</details>
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
@@ -723,18 +657,13 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [OpenHands](https://github.com/OpenHands/OpenHands) — AI-Driven Development.
 - [Crush](https://github.com/charmbracelet/crush) — The glamorous AI coding agent for your favorite terminal.
 
-<details>
-<summary>Honorable Mentions</summary>
-</details>
-
 [**`^        back to top        ^`**](#-table-of-contents)
 
-## 📚 Useful Resources
+#### Speech Recognition
 
-> [!NOTE]
-> A collection of links to blog posts or websites talking about great tools
->
-> _To be filled in ..._
+- [Whisper](https://github.com/openai/whisper) — Robust Speech Recognition via Large-Scale Weak Supervision.
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 ## 📜 License
 
