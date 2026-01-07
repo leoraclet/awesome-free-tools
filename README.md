@@ -35,54 +35,48 @@ This repository is my curated collection of the **best tools** I know, use, or h
 
 ## 📚 Table of contents
 
-- [🎯 Purpose](#-purpose)
-- [🔖 Legend](#-legend)
-- [📚 Table of contents](#-table-of-contents)
-- [🔭 Tools](#-tools)
-    - [🖥️ Core System](#️-core-system)
-        - [Operating Systems](#operating-systems)
-        - [Phone OS](#phone-os)
-    - [🌐 Internet \& Communication](#-internet--communication)
-        - [Code Sharing](#code-sharing)
-        - [Encrypted DNS](#encrypted-dns)
-        - [Remote Desktop / VNC](#remote-desktop--vnc)
-        - [Browsers](#browsers)
-        - [Web Search](#web-search)
-        - [Email Clients](#email-clients)
-        - [File Sharing](#file-sharing)
-        - [Messaging Apps](#messaging-apps)
-        - [Video Conferencing](#video-conferencing)
-        - [Download Manager](#download-manager)
-    - [💾 Storage \& Security](#-storage--security)
-        - [Cloud Storage](#cloud-storage)
-        - [Encryption Tools](#encryption-tools)
-        - [Password Managers](#password-managers)
-        - [Two-Factor Authentication (2FA)](#two-factor-authentication-2fa)
-    - [🧰 Productivity](#-productivity)
-        - [Code Development](#code-development)
-        - [Document Writing](#document-writing)
-        - [Note-Taking](#note-taking)
-        - [PDF Tools](#pdf-tools)
-    - [🎨 Creativity \& Design](#-creativity--design)
-        - [3D Modeling](#3d-modeling)
-        - [3D Slicing](#3d-slicing)
-        - [CAD \& PCB Design](#cad--pcb-design)
-        - [Drawing](#drawing)
-        - [Image Editing](#image-editing)
-    - [🎥 Media \& Utilities](#-media--utilities)
-        - [Media Players](#media-players)
-        - [Screen Recorders](#screen-recorders)
-        - [Video Editing](#video-editing)
-        - [Video Compressing](#video-compressing)
-        - [Torrent Clients](#torrent-clients)
-        - [Screenshot Tools](#screenshot-tools)
-    - [🗺️ Maps \& Remote Access](#️-maps--remote-access)
-        - [World Maps](#world-maps)
-    - [🦾 Artificial Intelligence (AI)](#-artificial-intelligence-ai)
-        - [AI Image Generation / Editing](#ai-image-generation--editing)
-        - [Coding Agents](#coding-agents)
-        - [Speech Recognition](#speech-recognition)
-- [📜 License](#-license)
+- [🖥️ Core System](#️-core-system)
+    - [Operating Systems](#operating-systems)
+    - [Phone OS](#phone-os)
+- [🌐 Internet \& Communication](#-internet--communication)
+    - [World Maps](#world-maps)
+    - [Code Sharing](#code-sharing)
+    - [Encrypted DNS](#encrypted-dns)
+    - [Remote Desktop / VNC](#remote-desktop--vnc)
+    - [Browsers](#browsers)
+    - [Web Search](#web-search)
+    - [Email Clients](#email-clients)
+    - [File Sharing](#file-sharing)
+    - [Messaging Apps](#messaging-apps)
+    - [Video Conferencing](#video-conferencing)
+    - [Download Manager](#download-manager)
+- [💾 Storage \& Security](#-storage--security)
+    - [Cloud Storage](#cloud-storage)
+    - [Encryption Tools](#encryption-tools)
+    - [Password Managers](#password-managers)
+    - [Two-Factor Authentication (2FA)](#two-factor-authentication-2fa)
+- [🧰 Productivity](#-productivity)
+    - [Code Development](#code-development)
+    - [Document Writing](#document-writing)
+    - [Note-Taking](#note-taking)
+    - [PDF Tools](#pdf-tools)
+- [🎨 Creativity \& Design](#-creativity--design)
+    - [3D Modeling](#3d-modeling)
+    - [3D Slicing](#3d-slicing)
+    - [CAD \& PCB Design](#cad--pcb-design)
+    - [Drawing](#drawing)
+    - [Image Editing](#image-editing)
+- [🎥 Media \& Utilities](#-media--utilities)
+    - [Media Players](#media-players)
+    - [Screen Recorders](#screen-recorders)
+    - [Video Editing](#video-editing)
+    - [Video Compressing](#video-compressing)
+    - [Torrent Clients](#torrent-clients)
+    - [Screenshot Tools](#screenshot-tools)
+- [🦾 Artificial Intelligence (AI)](#-artificial-intelligence-ai)
+    - [AI Image Generation / Editing](#ai-image-generation--editing)
+    - [Coding Agents](#coding-agents)
+    - [Speech Recognition](#speech-recognition)
 
 ## 🔭 Tools
 
@@ -118,6 +112,27 @@ This repository is my curated collection of the **best tools** I know, use, or h
 [**`^        back to top        ^`**](#-table-of-contents)
 
 ### 🌐 Internet & Communication
+
+#### World Maps
+
+`Alternatives to: Google Map, Apple Map, ...`
+
+- [OpenStreetMap](https://www.openstreetmap.org/) — Open, editable map of the world.
+  **🧠🏠💻**
+- [Organic Maps](https://organicmaps.app/) — Offline privacy-friendly maps based on OSM.
+  **🧠🔒💻**
+
+<details>
+<summary>Honorable Mentions</summary>
+
+- [MapLibre](https://maplibre.org/) — Open-source mapping library for developers.
+  **🧠💻**
+- [OsmAnd](https://osmand.net/) — Offline navigation and map viewer using OSM data.
+  **🧠🔒💻**
+
+</details>
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 #### Code Sharing
 
@@ -333,11 +348,6 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [Proton Authenticator](https://proton.me/fr/authenticator) — Encrypted 2FA app from Proton. 🔒📱
 - [FreeOTP](https://freeotp.github.io/) — Two-factor authentication application for systems utilizing one-time password protocols.
 
-<details>
-<summary>Honorable Mentions</summary>
-
-</details>
-
 [**`^        back to top        ^`**](#-table-of-contents)
 
 ### 🧰 Productivity
@@ -405,11 +415,6 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [Stirling](https://github.com/Stirling-Tools/Stirling-PDF/) — Web-based PDF tool suite for editing and conversion.
   **🧠💻**
 
-<details>
-<summary>Honorable Mentions</summary>
-
-</details>
-
 [**`^        back to top        ^`**](#-table-of-contents)
 
 ### 🎨 Creativity & Design
@@ -455,11 +460,6 @@ This repository is my curated collection of the **best tools** I know, use, or h
   **🧠💻**
 - [OpenSCAD](https://openscad.org/) — Script-based 3D CAD modeling software.
   **🧠💻**
-
-<details>
-<summary>Honorable Mentions</summary>
-
-</details>
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
@@ -605,36 +605,6 @@ This repository is my curated collection of the **best tools** I know, use, or h
 `Alternatives to: Sniping Tool`
 
 - [Flameshot](https://flameshot.org/) — Powerful, yet simple to use open-source screenshot software.
-
-<details>
-<summary>Honorable Mentions</summary>
-
-</details>
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-### 🗺️ Maps & Remote Access
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-#### World Maps
-
-`Alternatives to: Google Map, Apple Map, ...`
-
-- [OpenStreetMap](https://www.openstreetmap.org/) — Open, editable map of the world.
-  **🧠🏠💻**
-- [Organic Maps](https://organicmaps.app/) — Offline privacy-friendly maps based on OSM.
-  **🧠🔒💻**
-
-<details>
-<summary>Honorable Mentions</summary>
-
-- [MapLibre](https://maplibre.org/) — Open-source mapping library for developers.
-  **🧠💻**
-- [OsmAnd](https://osmand.net/) — Offline navigation and map viewer using OSM data.
-  **🧠🔒💻**
-
-</details>
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
