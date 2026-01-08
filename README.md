@@ -4,34 +4,22 @@
 [![GitHub issues](https://img.shields.io/github/issues/leoraclet/awesome-free-tools)](https://github.com/leoraclet/awesome-free-tools/issues)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> _"Find what you are looking for !"_
->
-> **A curated list of awesome free tools for common everyday tasks**
+> _"A curated list of the best free tools for everyday tasks !!"_
 
-This repository focuses on **quality over quantity**, listing only a few outstanding alternatives per category. The goal is to help you quickly find what you need **without overwhelming comparisons**.
-
-> [!TIP]
-> You can find tools by browsing the categories in the table of contents.
->
-> Alternatively, use **Ctrl+F** to search for popular software to find their alternative free tools.
+This repository focuses on **quality over quantity**, listing only outstanding alternatives per category.
 
 ## 🎯 Purpose
 
-Most **"Awesome"** repositories provide an extensive list of applications, but I often find them overwhelming when I'm just looking for the **best alternatives** or tools for my specific needs.
-
-This repository is my curated collection of the **best tools** I know, use, or have used in each category. The tools listed here are ones I _personally_ recommend based on my experience. While this list is currently personal, it may evolve as others contribute.
-
-> [!IMPORTANT]
-> While all tools presented here are free, this repository focuses primarily on **open-source** and **privacy-friendly** tools.
+Most "Awesome" lists are overwhelming. This one is a **personal, curated collection** of the best tools I use or recommend — **open-source** and **privacy-friendly** by default.
 
 ## 🔖 Legend
 
 | Icon | Meaning     | Icon | Meaning            | Icon | Meaning               |
 | ---- | ----------- | ---- | ------------------ | ---- | --------------------- |
-| 🧠    | Open Source | 🔒    | Privacy-Friendly   | 🏠    | Self-Hostable         |
-| 🐧    | Linux       | 🍎    | MacOS              | 🪟    | Windows               |
 | 📱    | Android     | 🍏    | IOS                | 🌐    | Web-Based             |
 | 💻    | App-Based   | 🌟    | Top Recommendation | 🔮    | Good & Modern UI / UX |
+| 🐧    | Linux       | 🍎    | MacOS              | 🪟    | Windows               |
+| 🧠    | Open Source | 🔒    | Privacy-Friendly   | 🏠    | Self-Hostable         |
 
 ## 📚 Table of contents
 
@@ -84,6 +72,8 @@ This repository is my curated collection of the **best tools** I know, use, or h
 
 #### Operating Systems
 
+[**`^        back to top        ^`**](#-table-of-contents)
+
 `Alternatives to: Windows, MacOS, ...`
 
 - [Arch Linux](https://archlinux.org/) — Lightweight, customizable rolling-release distro. 🧠💻🐧
@@ -92,20 +82,20 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [NixOS](https://nixos.org/) — Declarative Linux distribution with reproducible configurations. 🧠💻🐧
 - [Ubuntu](https://ubuntu.com/) — User-friendly Linux distribution for all users. 🧠💻🐧
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Phone OS
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Google Android, IOS, ...`
 
 - [Graphene OS](https://grapheneos.org/build#building-grapheneos) — The private and secure mobile operating system with Android app compatibility. 📱🧠🐧
 - [Lineage OS](https://lineageos.org/) — A free and open-source operating system for various devices. 📱🧠🐧
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 ### 🌐 Internet & Communication
 
 #### World Maps
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Google Map, Apple Map, ...`
 
@@ -114,16 +104,14 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [Organic Maps](https://organicmaps.app/) — Offline privacy-friendly maps based on OSM. 🧠🔒💻
 - [OsmAnd](https://osmand.net/) — Offline navigation and map viewer using OSM data. 🧠🔒💻
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Code Sharing
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Pastebin, ...`
 
 - [Hastebin](https://hastebin.com/) — Simple self-hostable paste tool. 🧠🏠💻
 - [PrivateBin](https://privatebin.info/) — Encrypted, self-hostable pastebin. 🧠🔒🏠💻
-
-[**`^        back to top        ^`**](#-table-of-contents)
 
 #### Encrypted DNS
 
@@ -131,9 +119,9 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) — A flexible DNS proxy, with support for encrypted DNS protocols.
 - [Quad9](https://quad9.net/0) — An open DNS recursive service for free security and high privacy
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Remote Desktop / VNC
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Remote Desktop, ...`
 
@@ -144,22 +132,22 @@ This repository is my curated collection of the **best tools** I know, use, or h
 
 #### Browsers
 
+[**`^        back to top        ^`**](#-table-of-contents)
+
 `Alternatives to: Chrome, Opera, Safari, Edge, ...`
 
 - [Brave](https://brave.com/) — Privacy-focused browser blocking ads and trackers. 🧠🔒💻🪟🍎🍏📱🐧
 - [Firefox](https://www.mozilla.org/firefox/) — Open-source browser with high privacy and customization. 🧠🔒💻🪟🍎🍏📱🐧
 - [Librewolf](https://librewolf.net/) — Firefox fork removing telemetry and hardening privacy. 🧠🔒💻🪟🍎🍏📱🐧
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Web Search
 
 - [Brave Search](https://search.brave.com/) — A completely independent index without tracking.
 - [DuckDuckGo](https://duckduckgo.com/) — Privacy and avoiding the filter bubble of personalized results.
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Email Clients
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Gmail, Outlook, ...`
 
@@ -167,9 +155,9 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [Mailspring](https://getmailspring.com/) — Cross-platform email client with modern UI. 🧠💻🔮🪟🍎🐧
 - [Thunderbird](https://www.thunderbird.net/) — Secure open-source email client with encryption support. 🧠🔒💻🪟🍎🐧
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### File Sharing
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Snapdrop, Discord (😆), ...`
 
@@ -179,9 +167,9 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [Send](https://send.vis.ee/) — Encrypted file transfer tool inspired by Firefox Send. 🧠🔒🏠💻
 - [Syncthing](https://syncthing.net/) — Decentralized file synchronization tool.🧠🔒🏠💻
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Messaging Apps
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: IMessage, Whatsapp, Google Message, Messenger, ...`
 
@@ -190,9 +178,9 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [Session](https://getsession.org/) — Anonymous decentralized messenger. 🧠🔒💻
 - [Signal](https://signal.org/) — Secure end-to-end encrypted messaging app. 🧠🔒💻
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Video Conferencing
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Zoom, Microsoft Teams, ...`
 
@@ -200,20 +188,20 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [Jitsi Meet](https://meet.jit.si/) — Free, encrypted video conferencing. 🧠🔒🏠💻
 - [Nextcloud Talk](https://nextcloud.com/talk/) — Private video chat integrated with Nextcloud. 🧠🔒🏠💻
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Download Manager
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: ...`
 
 - [Brisk](https://github.com/BrisklyDev/brisk) — Ultra-fast, modern download manager for desktop. 🧠🍎💻🐧
 - [Motrix](https://github.com/agalwood/Motrix) — A full-featured download manager. 🧠🍎💻🐧
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 ### 💾 Storage & Security
 
 #### Cloud Storage
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: ICloud, Google Drive, Dropbox, ...`
 
@@ -221,9 +209,9 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [Nextcloud](https://nextcloud.com/) — Self-hosted cloud and collaboration suite. 🧠🔒🏠💻
 - [Proton Drive](https://proton.me/drive) — Secure encrypted cloud from Proton. 🔒💻
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Encryption Tools
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: ...`
 
@@ -233,9 +221,9 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [Hat.sh](https://hat.sh/) — Browser-based modern file encryption. 🧠🔒💻
 - [VeraCrypt](https://www.veracrypt.fr/) — Powerful open-source disk encryption. 🧠🔒💻
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Password Managers
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: LastPass, Dashlane, ...`
 
@@ -244,9 +232,9 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [KeePassXC](https://keepassxc.org/) — Cross-platform KeePass fork. 🧠🔒💻
 - [Proton Pass](https://proton.me/pass) — Secure password manager by Proton. 🔒💻
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Two-Factor Authentication (2FA)
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Microsoft Authenticator, Google Authenticator, ...`
 
@@ -254,11 +242,11 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [FreeOTP](https://freeotp.github.io/) — Two-factor authentication application for systems utilizing one-time password protocols.
 - [Proton Authenticator](https://proton.me/fr/authenticator) — Encrypted 2FA app from Proton. 🔒📱
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 ### 🧰 Productivity
 
 #### Code Development
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Jetbrains IDE, Visual Studio`
 
@@ -268,9 +256,9 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [VSCodium](https://vscodium.com/) — Free/Libre Open Source Software Binaries of VS Code 💻
 - [Zed](https://github.com/zed-industries/zed) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Document Writing
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Microsoft Office, Open Office, Google Docs, ...`
 
@@ -279,9 +267,9 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [OnlyOffice](https://www.onlyoffice.com/) — Collaborative office suite compatible with MS formats. 🧠🏠💻
 - [Overleaf](https://www.overleaf.com/) — Online LaTeX editor for research and academics. 💻
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Note-Taking
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Notion, Evernote, OneNote, ...`
 
@@ -290,37 +278,37 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [Obsidian](https://obsidian.md/) — Markdown-based knowledge base app. 🔒💻
 - [Standard Notes](https://standardnotes.com/) — Privacy-focused encrypted notes app. 🧠🔒💻
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### PDF Tools
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Adobe Acrobat, ...`
 
 - [Stirling](https://github.com/Stirling-Tools/Stirling-PDF/) — Web-based PDF tool suite for editing and conversion. 🧠💻
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 ### 🎨 Creativity & Design
 
 #### 3D Modeling
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: 3DS Max, AutoCAD`
 
 - [Blender](https://www.blender.org/) — Complete 3D modeling and animation suite. 🧠💻
 - [OneShape](https://www.onshape.com/en/pricing) — Web-based CAD and PDM tool
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### 3D Slicing
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Bambu Studio, ...`
 
 - [Orca Slicer](https://github.com/SoftFever/OrcaSlicer) — Advanced slicer based on Bambu Studio. 🧠💻
 - [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) — Industry-standard slicer. 🧠💻
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### CAD & PCB Design
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Altium Designer, Auto CAD, Fusion 360`
 
@@ -328,9 +316,9 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [KiCAD](https://www.kicad.org/) — Open-source EDA suite for PCB design. 🧠💻
 - [OpenSCAD](https://openscad.org/) — Script-based 3D CAD modeling software. 🧠💻
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Drawing
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Adobe Illustrator`
 
@@ -338,9 +326,9 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [Inkscape](https://inkscape.org/) — Professional vector graphics editor. 🧠💻
 - [Krita](https://krita.org/) — Digital painting software for artists. 🧠💻
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Image Editing
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Photoshop, Lightroom, ...`
 
@@ -349,11 +337,11 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [Krita](https://krita.org/) — Digital painting and illustration software with advanced brush tools.🧠
 - [Photopea](https://www.photopea.com/) — Web-based image editor with Photoshop-like features. 🧠
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 ### 🎥 Media & Utilities
 
 #### Media Players
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: ...`
 
@@ -361,9 +349,9 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [SMPlayer](https://www.smplayer.info/) — GUI frontend for MPV. 🧠💻
 - [VLC](https://www.videolan.org/) — Universal media player supporting all formats. 🧠💻
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Screen Recorders
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: ...`
 
@@ -371,18 +359,18 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [OBS Studio](https://obsproject.com/) — Professional screen recorder and streamer. 🧠💻
 - [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/) — Lightweight desktop recorder. 🧠💻
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Video Editing
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Premiere, ...`
 
 - [Kdenlive](https://kdenlive.org/) — Professional-grade video editor with multi-track editing and customizable effects. 🧠
 - [Shotcut](https://shotcut.org/) — Cross-platform video editor with wide format support and advanced features. 🧠
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Video Compressing
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: ...`
 
@@ -391,9 +379,9 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [HandBrake](https://handbrake.fr/) — Open-source video transcoder. 🧠💻
 - [VLC](https://www.videolan.org/) — Universal media player supporting all formats. 🧠💻
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Torrent Clients
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: BitTorrent, ...`
 
@@ -402,19 +390,19 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [qBittorrent](https://www.qbittorrent.org/) — Lightweight, ad-free torrent client.🧠🔒💻
 - [Transmission](https://transmissionbt.com/) — Minimal, secure torrent client. 🧠💻
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Screenshot Tools
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Sniping Tool`
 
 - [Flameshot](https://flameshot.org/) — Powerful, yet simple to use open-source screenshot software.
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 ### 🦾 Artificial Intelligence (AI)
 
 #### AI Image Generation / Editing
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: Dall-E, ...`
 
@@ -422,27 +410,31 @@ This repository is my curated collection of the **best tools** I know, use, or h
 - [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) — Stable Diffusion web UI.
 - [Stable Diffusion](https://stabledifffusion.com/) — High-quality text-to-image model that turns your ideas into vivid, realistic visuals. </summary>
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Coding Agents
+
+[**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: ...`
 
 - [Crush](https://github.com/charmbracelet/crush) — The glamorous AI coding agent for your favorite terminal.
 - [OpenHands](https://github.com/OpenHands/OpenHands) — AI-Driven Development.
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 #### Speech Recognition
 
 - [Whisper](https://github.com/openai/whisper) — Robust Speech Recognition via Large-Scale Weak Supervision.
 
-[**`^        back to top        ^`**](#-table-of-contents)
-
 ## 📚 Resources
 
 - [Privacy Guides Tools](https://www.privacyguides.org/en/tools/) — The collaborative privacy advocacy community.
-- [Privacy Tools](https://www.privacytools.io/) — Website for Encrypted Software & Apps
+- [Privacy Tools](https://www.privacytools.io/) — Website for Encrypted Software & Apps.
+- [AlternativesTo](https://alternativeto.net/) — Find alternatives to software you know and discover new software.
+
+## Repositories
+
+Some other repositories :
+
+- [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) — A curated list of amazingly awesome open-source sysadmin resources.
+- [awesome-foss](https://codeberg.org/RayJW/awesome-foss) — A collection of all the FOSS to use or follow to keep track of privacy respecting alternatives.
 
 ## 📜 License
 
