@@ -10,7 +10,7 @@ This repository focuses on **quality over quantity**, listing only outstanding a
 
 ## 🎯 Purpose
 
-Most "Awesome" lists are overwhelming. This one is a **personal, curated collection** of the best tools I use or recommend — **open-source** and **privacy-friendly** primarly.
+Most "Awesome" lists are overwhelming. This one is a **personal, curated collection** of the best tools I use or recommend — **open-source** and **privacy-friendly** primarily.
 
 ## 🔖 Legend
 
@@ -67,6 +67,8 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 - [World Maps](#world-maps)
 
 ## 🔭 Tools
+
+You can find the tools you need by browsing the appropriate category or by searching for a popular software name in that category (use **Ctrl+F** to quickly locate alternatives).
 
 ### 3D Modeling
 
@@ -479,3 +481,10 @@ Some other repositories you may find useful :
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+<!--
+
+Markdown header sorter
+https://lukasdzenk.github.io/Markdown-header-sorter/
+
+-->
