@@ -23,131 +23,80 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 
 ## 📚 Table of contents
 
-- [🖥️ Core System](#️-core-system)
-    - [Operating Systems](#operating-systems)
-    - [Phone OS](#phone-os)
-- [🌐 Internet \& Communication](#-internet--communication)
-    - [World Maps](#world-maps)
-    - [Code Sharing](#code-sharing)
-    - [Encrypted DNS](#encrypted-dns)
-        - [Servers](#servers)
-        - [Clients](#clients)
-    - [Remote Desktop / VNC](#remote-desktop--vnc)
-    - [Browsers](#browsers)
-    - [Web Search](#web-search)
-    - [Email Clients](#email-clients)
-    - [Email Aliases](#email-aliases)
-    - [File Sharing](#file-sharing)
-    - [Messaging Apps](#messaging-apps)
-    - [Team Communication](#team-communication)
-    - [Video Conferencing](#video-conferencing)
-    - [Download Manager](#download-manager)
-    - [VPN](#vpn)
-- [💾 Storage \& Security](#-storage--security)
-    - [Cloud Storage](#cloud-storage)
-    - [Encryption Tools](#encryption-tools)
-    - [Password Managers](#password-managers)
-    - [Two-Factor Authentication (2FA)](#two-factor-authentication-2fa)
-- [🧰 Productivity](#-productivity)
-    - [Calculator](#calculator)
-    - [Text Editor](#text-editor)
-    - [Code Development](#code-development)
-    - [Document Writing](#document-writing)
-    - [Note-Taking](#note-taking)
-    - [PDF Tools](#pdf-tools)
-- [🎨 Creativity \& Design](#-creativity--design)
-    - [3D Modeling](#3d-modeling)
-    - [3D Slicing](#3d-slicing)
-    - [CAD \& PCB Design](#cad--pcb-design)
-    - [Drawing](#drawing)
-    - [Image Editing](#image-editing)
-- [🎥 Media \& Utilities](#-media--utilities)
-    - [Media Players](#media-players)
-    - [Screen Recorders](#screen-recorders)
-    - [Video Editing](#video-editing)
-    - [Video Compressing](#video-compressing)
-    - [Torrent Clients](#torrent-clients)
-    - [Screenshot Tools](#screenshot-tools)
-- [🦾 Artificial Intelligence (AI)](#-artificial-intelligence-ai)
-    - [AI Image Generation / Editing](#ai-image-generation--editing)
-    - [Coding Agents](#coding-agents)
-    - [Speech Recognition](#speech-recognition)
+- [3D Modeling](#3d-modeling)
+- [3D Slicing](#3d-slicing)
+- [AI Image Generation / Editing](#ai-image-generation--editing)
+- [Browsers](#browsers)
+- [CAD \& PCB Design](#cad--pcb-design)
+- [Calculator](#calculator)
+- [Cloud Storage](#cloud-storage)
+- [Code Development](#code-development)
+- [Code Sharing](#code-sharing)
+- [Coding Agents](#coding-agents)
+- [Document Writing](#document-writing)
+- [Download Manager](#download-manager)
+- [Drawing](#drawing)
+- [Email Aliases](#email-aliases)
+- [Email Clients](#email-clients)
+- [Encrypted DNS](#encrypted-dns)
+    - [Servers](#servers)
+    - [Clients](#clients)
+- [Encryption Tools](#encryption-tools)
+- [File Sharing](#file-sharing)
+- [Image Editing](#image-editing)
+- [Media Players](#media-players)
+- [Messaging Apps](#messaging-apps)
+- [Note-Taking](#note-taking)
+- [Operating Systems](#operating-systems)
+- [PDF Tools](#pdf-tools)
+- [Password Managers](#password-managers)
+- [Phone OS](#phone-os)
+- [Remote Desktop / VNC](#remote-desktop--vnc)
+- [Screen Recorders](#screen-recorders)
+- [Screenshot Tools](#screenshot-tools)
+- [Speech Recognition](#speech-recognition)
+- [Team Communication](#team-communication)
+- [Text Editor](#text-editor)
+- [Torrent Clients](#torrent-clients)
+- [Two-Factor Authentication (2FA)](#two-factor-authentication-2fa)
+- [VPN](#vpn)
+- [Video Compressing](#video-compressing)
+- [Video Conferencing](#video-conferencing)
+- [Video Editing](#video-editing)
+- [Web Search](#web-search)
+- [World Maps](#world-maps)
 
 ## 🔭 Tools
 
-### 🖥️ Core System
-
-#### Operating Systems
+### 3D Modeling
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
-`Alternatives to: Windows, MacOS, ...`
+`Alternatives to: 3DS Max, AutoCAD`
 
-- [Arch Linux](https://archlinux.org/) — Lightweight, customizable rolling-release distro. 🧠💻🐧
-- [Debian](https://www.debian.org/) — Stable, community-maintained OS. 🧠💻🐧
-- [Fedora](https://fedoraproject.org/) — Cutting-edge Linux distro focused on open-source software. 🧠💻🐧
-- [NixOS](https://nixos.org/) — Declarative Linux distribution with reproducible configurations. 🧠💻🐧
-- [Ubuntu](https://ubuntu.com/) — User-friendly Linux distribution for all users. 🧠💻🐧
+- [Blender](https://www.blender.org/) — Complete 3D modeling and animation suite. 🧠💻🪟🍎🐧
+- [OneShape](https://www.onshape.com/en/pricing) — Web-based CAD and PDM tool. 🌐
 
-#### Phone OS
+### 3D Slicing
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
-`Alternatives to: Google Android, IOS, ...`
+`Alternatives to: Bambu Studio, ...`
 
-- [Graphene OS](https://grapheneos.org/build#building-grapheneos) — The private and secure mobile operating system with Android app compatibility. 📱🧠🐧
-- [Lineage OS](https://lineageos.org/) — A free and open-source operating system for various devices. 📱🧠🐧
+- [Orca Slicer](https://github.com/SoftFever/OrcaSlicer) — Advanced slicer based on Bambu Studio. 🧠💻🪟🍎🐧
+- [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) — Industry-standard slicer. 💻🪟🍎🐧
 
-### 🌐 Internet & Communication
-
-#### World Maps
+### AI Image Generation / Editing
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
-`Alternatives to: Google Map, Apple Map, ...`
+`Alternatives to: Dall-E, ...`
 
-- [MapLibre](https://maplibre.org/) — Open-source mapping library for developers. 🧠💻
-- [OpenStreetMap](https://www.openstreetmap.org/) — Open, editable map of the world. 🧠🏠💻
-- [Organic Maps](https://organicmaps.app/) — Offline privacy-friendly maps based on OSM. 🧠🔒💻
-- [OsmAnd](https://osmand.net/) — Offline navigation and map viewer using OSM data. 🧠🔒💻
-- [Comaps](https://www.comaps.app/) — Hike, Bike, Drive Offline and Navigate with Privacy. 🍏📱
+- [Fooocus](https://github.com/lllyasviel/Fooocus) — Focus on prompting and generating. 🧠💻🪟🍎🐧
+- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) — Stable Diffusion web UI. 🧠💻🪟🍎🐧
+- [Stable Diffusion](https://stabledifffusion.com/) — High-quality text-to-image model that turns your ideas into vivid, realistic visuals. 🌐
 
-#### Code Sharing
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-`Alternatives to: Pastebin, ...`
-
-- [Hastebin](https://hastebin.com/) — Simple self-hostable paste tool. 🧠🏠💻
-- [PrivateBin](https://privatebin.info/) — Encrypted, self-hostable pastebin. 🧠🔒🏠💻
-
-#### Encrypted DNS
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-`Alternatives to: Google DNS, Windows DNS, ...`
-
-##### Servers
-
-- [Cloudfare](https://one.one.one.one/) — High Performance DNS Resolver. 🌐
-- [Quad9](https://quad9.net/0) — An open DNS recursive service for free security and high privacy. 🌐
-
-##### Clients
-
-- [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) — A flexible DNS proxy, with support for encrypted DNS protocols. 🧠💻🐧🪟🍎
-
-#### Remote Desktop / VNC
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-`Alternatives to: Remote Desktop, ...`
-
-- [RealVNC](https://www.realvnc.com/) — Cross-platform remote desktop tool. 💻🐧🪟🍎
-- [Remmina](https://remmina.org/) — Multi-protocol remote desktop client. 🧠💻🐧
-- [RustDesk](https://rustdesk.com/) — Secure, self-hosted remote desktop software. 🧠🔒🏠💻🪟🍎🍏📱🐧
-- [TigerVNC](https://tigervnc.org/) — Reliable VNC implementation. 🧠💻🐧🪟🍎
-
-#### Browsers
+### Browsers
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
@@ -157,91 +106,26 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 - [Firefox](https://www.mozilla.org/firefox/) — Open-source browser with high privacy and customization. 🧠🔒💻🪟🍎🍏📱🐧
 - [Librewolf](https://librewolf.net/) — Firefox fork removing telemetry and hardening privacy. 🧠🔒💻🪟🍎🍏📱🐧
 
-#### Web Search
-
-- [Brave Search](https://search.brave.com/) — A completely independent index without tracking. 🔒🌐🔮
-- [DuckDuckGo](https://duckduckgo.com/) — Privacy and avoiding the filter bubble of personalized results. 🌐🔮
-- [Startpage](https://www.startpage.com/) — The world’s most private search engine. 🔒🌐
-
-#### Email Clients
+### CAD & PCB Design
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
-`Alternatives to: Gmail, Outlook, ...`
+`Alternatives to: Altium Designer, Auto CAD, Fusion 360`
 
-- [FairMail](https://email.faircode.eu/) — Fully featured, privacy oriented email app for Android 🧠🔒📱
-- [Mailspring](https://getmailspring.com/) — Cross-platform email client with modern UI. 🧠💻🔮🪟🍎🐧
-- [Thunderbird](https://www.thunderbird.net/) — Secure open-source email client with encryption support. 🧠🔒💻🪟🍎🐧
+- [FreeCAD](https://www.freecad.org/) — Parametric 3D CAD tool for engineering. 🧠💻🪟🍎🐧
+- [KiCAD](https://www.kicad.org/) — Open-source EDA suite for PCB design. 🧠💻🪟🍎🐧
+- [OpenSCAD](https://openscad.org/) — Script-based 3D CAD modeling software. 🧠💻🪟🍎🐧
 
-#### Email Aliases
-
-- [Addy.io](https://addy.io/) — Anonymous Email Forwarding. 🌐🍏📱
-- [SimpleLogin](https://simplelogin.io/) — Open source anonymous email service. 🌐🍎🍏📱
-
-#### File Sharing
+### Calculator
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
-`Alternatives to: Snapdrop, Discord (😆), ...`
+`Alternatives to: Windows Calculator, ...`
 
-- [Localsend](https://localsend.org/) — Cross-platform local file sharing without internet. 🧠🔒🏠💻
-- [OnionShare](https://onionshare.org/) — Anonymous file sharing via Tor. 🧠🔒🏠💻🪟🍎🍏📱🐧
-- [Send](https://github.com/timvisee/send-instances/) — Encrypted file transfer tool inspired by Firefox Send. 🧠🔒🏠💻🌐
-- [Syncthing](https://syncthing.net/) — Decentralized file synchronization tool.🧠🔒🏠💻🪟🍎🐧
+- [Geogebra](https://www.geogebra.org/) — Free digital tools graphing, geometry, collaborative whiteboard and more. 🌐
+- [Qalculate](https://qalculate.github.io) — The ultimate multi-purpose desktop calculator. 🧠🔒💻🪟🍎🐧
 
-#### Messaging Apps
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-`Alternatives to: IMessage, Whatsapp, Google Message, Messenger, ...`
-
-- [Briar](https://briarproject.org/) — Peer-to-peer messenger that works offline. 🧠🔒🍏📱
-- [Element](https://element.io/) — Decentralized Matrix-based messenger.🧠🔒🏠💻🪟🍎🐧🍏📱
-- [Session](https://getsession.org/) — Anonymous decentralized messenger. 🧠🔒💻🪟🍎🐧🍏📱
-- [Signal](https://signal.org/) — Secure end-to-end encrypted messaging app. 🧠🔒💻🪟🍎🐧🍏📱
-
-#### Team Communication
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-`Alternatives to: Discord, Slack, ...`
-
-- [Element](https://element.io/) — Decentralized Matrix-based messenger.🧠🔒🏠💻🪟🍎🐧🍏📱
-- [Mattermost](https://github.com/mattermost/mattermost) — Mattermost is an open source platform for secure collaboration 🧠🔒💻🪟🍎🐧🍏📱
-- [Rocket Chat](https://github.com/RocketChat/Rocket.Chat) — The ultimate secure open-source solution for team communications. 🧠🔒💻🪟🍎🐧🍏📱
-
-#### Video Conferencing
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-`Alternatives to: Zoom, Microsoft Teams, ...`
-
-- [Brave Talk](https://talk.brave.com/) — Unlimited, private video calls. Right in the Brave browser. 🌐🔒
-- [Jitsi Meet](https://meet.jit.si/) — Free, encrypted video conferencing. 🧠🔒🏠🌐🍏📱
-- [Nextcloud Talk](https://nextcloud.com/talk/) — Private video chat integrated with Nextcloud. 🧠🔒🏠💻
-
-#### Download Manager
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-`Alternatives to: ...`
-
-- [Brisk](https://github.com/BrisklyDev/brisk) — Ultra-fast, modern download manager for desktop. 🧠🍎💻🐧
-- [Motrix](https://github.com/agalwood/Motrix) — A full-featured download manager. 🧠🍎💻🐧
-
-#### VPN
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-`Alternatives to: NordVPN, Surfshark VPN, ...`
-
-- [Tailscale](https://tailscale.com/) — The easiest, most secure way to use WireGuard and 2FA. 🧠🔒💻🪟🍎🐧🍏📱
-- [OpenVPN](https://openvpn.net/) — Secure Access for Every Employee, Everywhere. 🧠🔒💻🪟🍎🐧🍏📱
-- [Wireguard](https://www.wireguard.com/) — Extremely simple yet fast and modern VPN. 🧠🔒💻🪟🍎🐧🍏📱
-
-### 💾 Storage & Security
-
-#### Cloud Storage
+### Cloud Storage
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
@@ -251,61 +135,7 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 - [Nextcloud](https://nextcloud.com/) — Self-hosted cloud and collaboration suite. 🧠🔒🏠💻
 - [Proton Drive](https://proton.me/drive) — Secure encrypted cloud from Proton. 🔒💻
 
-#### Encryption Tools
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-`Alternatives to: ...`
-
-- [7-Zip](https://www.7-zip.org/) — File archiver with strong AES-256 encryption. 🧠💻🪟🍎🐧
-- [Age](https://github.com/FiloSottile/age) — Simple modern encryption for files and streams. 🧠💻
-- [Cryptomator](https://cryptomator.org/) — Transparent client-side encryption for cloud. 🧠🔒🏠💻🪟🍎🐧🍏📱
-- [Hat.sh](https://hat.sh/) — Browser-based modern file encryption. 🧠🔒🌐
-- [VeraCrypt](https://www.veracrypt.fr/) — Powerful open-source disk encryption. 🧠🔒💻🪟🍎🐧
-
-#### Password Managers
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-`Alternatives to: LastPass, Dashlane, ...`
-
-- [Bitwarden](https://bitwarden.com/) — Open-source password manager with cloud sync.🧠🔒💻🪟🍎🐧🍏📱
-- [KeePass](https://keepass.info/) — Offline password manager with strong encryption 🧠🔒🏠💻🪟🍎🐧
-- [KeePassXC](https://keepassxc.org/) — Cross-platform KeePass fork. 🧠🔒💻🪟🍎🐧
-- [Proton Pass](https://proton.me/pass) — Secure password manager by Proton. 🔒💻🪟🍎🐧🍏📱
-
-#### Two-Factor Authentication (2FA)
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-`Alternatives to: Microsoft Authenticator, Google Authenticator, ...`
-
-- [Aegis](https://getaegis.app/) — Secure local 2FA app for Android. 🧠🔒📱
-- [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/) — Secure your accounts with trusted two-factor authentication. 🧠🔒🍏📱
-- [FreeOTP](https://freeotp.github.io/) — Two-factor authentication application for systems utilizing one-time password protocols. 🧠🍏📱
-- [Proton Authenticator](https://proton.me/fr/authenticator) — Encrypted 2FA app from Proton. 🔒🪟🍎🐧🍏📱
-
-### 🧰 Productivity
-
-#### Calculator
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-`Alternatives to: Windows Calculator, ...`
-
-- [Geogebra](https://www.geogebra.org/) — Free digital tools graphing, geometry, collaborative whiteboard and more. 🌐
-- [Qalculate](https://qalculate.github.io) — The ultimate multi-purpose desktop calculator. 🧠🔒💻🪟🍎🐧
-
-#### Text Editor
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-`Alternatives to: Notepad, ...`
-
-- [Notepad++](https://notepad-plus-plus.org) — Free source code editor and Notepad replacement. 🧠🔒💻🪟
-- [Sublime Text](https://www.sublimetext.com/) — The sophisticated text editor for code, markup and prose. 💻🪟🍎🐧
-
-#### Code Development
+### Code Development
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
@@ -317,7 +147,25 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 - [VSCodium](https://vscodium.com/) — Free/Libre Open Source Software Binaries of VS Code 🧠🔒💻🪟🍎🐧
 - [Zed](https://github.com/zed-industries/zed) — A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. 🧠🪟🍎🐧
 
-#### Document Writing
+### Code Sharing
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Pastebin, ...`
+
+- [Hastebin](https://hastebin.com/) — Simple self-hostable paste tool. 🧠🏠💻
+- [PrivateBin](https://privatebin.info/) — Encrypted, self-hostable pastebin. 🧠🔒🏠💻
+
+### Coding Agents
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: ...`
+
+- [Crush](https://github.com/charmbracelet/crush) — The glamorous AI coding agent for your favorite terminal. 🧠💻🪟🍎🐧
+- [OpenHands](https://github.com/OpenHands/OpenHands) — AI-Driven Development. 🧠🏠🪟🍎🐧
+
+### Document Writing
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
@@ -328,56 +176,16 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 - [OnlyOffice](https://www.onlyoffice.com/) — Collaborative office suite compatible with MS formats. 🧠🏠💻🪟🍎🐧🍏📱
 - [Overleaf](https://www.overleaf.com/) — Online LaTeX editor for research and academics. 🧠🏠🌐
 
-#### Note-Taking
+### Download Manager
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
-`Alternatives to: Notion, Evernote, OneNote, ...`
+`Alternatives to: ...`
 
-- [Joplin](https://joplinapp.org/) — Open-source encrypted note-taking app. 🧠🔒💻🪟🍎🐧🍏📱
-- [Logseq](https://logseq.com/) — Open-source local-first note-taking tool. 🧠🔒🏠💻🪟🍎🐧🍏📱
-- [Obsidian](https://obsidian.md/) — Markdown-based knowledge base app. 💻🪟🍎🐧🍏📱
-- [Standard Notes](https://standardnotes.com/) — Privacy-focused encrypted notes app. 🔒💻🪟🍎🐧🍏📱
+- [Brisk](https://github.com/BrisklyDev/brisk) — Ultra-fast, modern download manager for desktop. 🧠🍎💻🐧
+- [Motrix](https://github.com/agalwood/Motrix) — A full-featured download manager. 🧠🍎💻🐧
 
-#### PDF Tools
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-`Alternatives to: Adobe Acrobat, ...`
-
-- [Stirling](https://github.com/Stirling-Tools/Stirling-PDF/) — Web-based PDF tool suite for editing and conversion. 🧠💻
-
-### 🎨 Creativity & Design
-
-#### 3D Modeling
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-`Alternatives to: 3DS Max, AutoCAD`
-
-- [Blender](https://www.blender.org/) — Complete 3D modeling and animation suite. 🧠💻🪟🍎🐧
-- [OneShape](https://www.onshape.com/en/pricing) — Web-based CAD and PDM tool. 🌐
-
-#### 3D Slicing
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-`Alternatives to: Bambu Studio, ...`
-
-- [Orca Slicer](https://github.com/SoftFever/OrcaSlicer) — Advanced slicer based on Bambu Studio. 🧠💻🪟🍎🐧
-- [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) — Industry-standard slicer. 💻🪟🍎🐧
-
-#### CAD & PCB Design
-
-[**`^        back to top        ^`**](#-table-of-contents)
-
-`Alternatives to: Altium Designer, Auto CAD, Fusion 360`
-
-- [FreeCAD](https://www.freecad.org/) — Parametric 3D CAD tool for engineering. 🧠💻🪟🍎🐧
-- [KiCAD](https://www.kicad.org/) — Open-source EDA suite for PCB design. 🧠💻🪟🍎🐧
-- [OpenSCAD](https://openscad.org/) — Script-based 3D CAD modeling software. 🧠💻🪟🍎🐧
-
-#### Drawing
+### Drawing
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
@@ -387,7 +195,60 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 - [Inkscape](https://inkscape.org/) — Professional vector graphics editor. 🧠💻🪟🍎🐧
 - [Krita](https://krita.org/) — Digital painting software for artists. 🧠💻🪟🍎🐧
 
-#### Image Editing
+### Email Aliases
+
+- [Addy.io](https://addy.io/) — Anonymous Email Forwarding. 🌐🍏📱
+- [SimpleLogin](https://simplelogin.io/) — Open source anonymous email service. 🌐🍎🍏📱
+
+### Email Clients
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Gmail, Outlook, ...`
+
+- [FairMail](https://email.faircode.eu/) — Fully featured, privacy oriented email app for Android 🧠🔒📱
+- [Mailspring](https://getmailspring.com/) — Cross-platform email client with modern UI. 🧠💻🔮🪟🍎🐧
+- [Thunderbird](https://www.thunderbird.net/) — Secure open-source email client with encryption support. 🧠🔒💻🪟🍎🐧
+
+### Encrypted DNS
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Google DNS, Windows DNS, ...`
+
+#### Servers
+
+- [Cloudfare](https://one.one.one.one/) — High Performance DNS Resolver. 🌐
+- [Quad9](https://quad9.net/0) — An open DNS recursive service for free security and high privacy. 🌐
+
+#### Clients
+
+- [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) — A flexible DNS proxy, with support for encrypted DNS protocols. 🧠💻🐧🪟🍎
+
+### Encryption Tools
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: ...`
+
+- [7-Zip](https://www.7-zip.org/) — File archiver with strong AES-256 encryption. 🧠💻🪟🍎🐧
+- [Age](https://github.com/FiloSottile/age) — Simple modern encryption for files and streams. 🧠💻
+- [Cryptomator](https://cryptomator.org/) — Transparent client-side encryption for cloud. 🧠🔒🏠💻🪟🍎🐧🍏📱
+- [Hat.sh](https://hat.sh/) — Browser-based modern file encryption. 🧠🔒🌐
+- [VeraCrypt](https://www.veracrypt.fr/) — Powerful open-source disk encryption. 🧠🔒💻🪟🍎🐧
+
+### File Sharing
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Snapdrop, Discord (😆), ...`
+
+- [Localsend](https://localsend.org/) — Cross-platform local file sharing without internet. 🧠🔒🏠💻
+- [OnionShare](https://onionshare.org/) — Anonymous file sharing via Tor. 🧠🔒🏠💻🪟🍎🍏📱🐧
+- [Send](https://github.com/timvisee/send-instances/) — Encrypted file transfer tool inspired by Firefox Send. 🧠🔒🏠💻🌐
+- [Syncthing](https://syncthing.net/) — Decentralized file synchronization tool.🧠🔒🏠💻🪟🍎🐧
+
+### Image Editing
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
@@ -398,9 +259,7 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 - [Krita](https://krita.org/) — Digital painting and illustration software with advanced brush tools. 🧠💻🪟🍎🐧
 - [Photopea](https://www.photopea.com/) — Web-based image editor with Photoshop-like features. 🧠🌐
 
-### 🎥 Media & Utilities
-
-#### Media Players
+### Media Players
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
@@ -410,7 +269,80 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 - [SMPlayer](https://www.smplayer.info/) — GUI frontend for MPV. 🧠💻🪟🍎🐧📱
 - [VLC](https://www.videolan.org/) — Universal media player supporting all formats. 🧠💻🪟🍎🐧🍏📱
 
-#### Screen Recorders
+### Messaging Apps
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: IMessage, Whatsapp, Google Message, Messenger, ...`
+
+- [Briar](https://briarproject.org/) — Peer-to-peer messenger that works offline. 🧠🔒🍏📱
+- [Element](https://element.io/) — Decentralized Matrix-based messenger.🧠🔒🏠💻🪟🍎🐧🍏📱
+- [Session](https://getsession.org/) — Anonymous decentralized messenger. 🧠🔒💻🪟🍎🐧🍏📱
+- [Signal](https://signal.org/) — Secure end-to-end encrypted messaging app. 🧠🔒💻🪟🍎🐧🍏📱
+
+### Note-Taking
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Notion, Evernote, OneNote, ...`
+
+- [Joplin](https://joplinapp.org/) — Open-source encrypted note-taking app. 🧠🔒💻🪟🍎🐧🍏📱
+- [Logseq](https://logseq.com/) — Open-source local-first note-taking tool. 🧠🔒🏠💻🪟🍎🐧🍏📱
+- [Obsidian](https://obsidian.md/) — Markdown-based knowledge base app. 💻🪟🍎🐧🍏📱
+- [Standard Notes](https://standardnotes.com/) — Privacy-focused encrypted notes app. 🔒💻🪟🍎🐧🍏📱
+
+### Operating Systems
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Windows, MacOS, ...`
+
+- [Arch Linux](https://archlinux.org/) — Lightweight, customizable rolling-release distro. 🧠💻🐧
+- [Debian](https://www.debian.org/) — Stable, community-maintained OS. 🧠💻🐧
+- [Fedora](https://fedoraproject.org/) — Cutting-edge Linux distro focused on open-source software. 🧠💻🐧
+- [NixOS](https://nixos.org/) — Declarative Linux distribution with reproducible configurations. 🧠💻🐧
+- [Ubuntu](https://ubuntu.com/) — User-friendly Linux distribution for all users. 🧠💻🐧
+
+### PDF Tools
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Adobe Acrobat, ...`
+
+- [Stirling](https://github.com/Stirling-Tools/Stirling-PDF/) — Web-based PDF tool suite for editing and conversion. 🧠💻
+
+### Password Managers
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: LastPass, Dashlane, ...`
+
+- [Bitwarden](https://bitwarden.com/) — Open-source password manager with cloud sync.🧠🔒💻🪟🍎🐧🍏📱
+- [KeePass](https://keepass.info/) — Offline password manager with strong encryption 🧠🔒🏠💻🪟🍎🐧
+- [KeePassXC](https://keepassxc.org/) — Cross-platform KeePass fork. 🧠🔒💻🪟🍎🐧
+- [Proton Pass](https://proton.me/pass) — Secure password manager by Proton. 🔒💻🪟🍎🐧🍏📱
+
+### Phone OS
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Google Android, IOS, ...`
+
+- [Graphene OS](https://grapheneos.org/build#building-grapheneos) — The private and secure mobile operating system with Android app compatibility. 📱🧠🐧
+- [Lineage OS](https://lineageos.org/) — A free and open-source operating system for various devices. 📱🧠🐧
+
+### Remote Desktop / VNC
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Remote Desktop, ...`
+
+- [RealVNC](https://www.realvnc.com/) — Cross-platform remote desktop tool. 💻🐧🪟🍎
+- [Remmina](https://remmina.org/) — Multi-protocol remote desktop client. 🧠💻🐧
+- [RustDesk](https://rustdesk.com/) — Secure, self-hosted remote desktop software. 🧠🔒🏠💻🪟🍎🍏📱🐧
+- [TigerVNC](https://tigervnc.org/) — Reliable VNC implementation. 🧠💻🐧🪟🍎
+
+### Screen Recorders
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
@@ -419,27 +351,38 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 - [Asciinema](https://asciinema.org/) — Terminal session recorder for developers. 🧠💻🪟🍎🐧
 - [OBS Studio](https://obsproject.com/) — Professional screen recorder and streamer. 🧠💻🪟🍎🐧
 
-#### Video Editing
+### Screenshot Tools
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
-`Alternatives to: Premiere, ...`
+`Alternatives to: Sniping Tool`
 
-- [Kdenlive](https://kdenlive.org/) — Professional-grade video editor with multi-track editing and customizable effects. 🧠💻🪟🍎🐧
-- [Shotcut](https://shotcut.org/) — Cross-platform video editor with wide format support and advanced features. 🧠💻🪟🍎🐧
+- [Flameshot](https://flameshot.org/) — Powerful, yet simple to use open-source screenshot software. 🧠💻🪟🍎🐧
 
-#### Video Compressing
+### Speech Recognition
+
+- [Whisper](https://github.com/openai/whisper) — Robust Speech Recognition via Large-Scale Weak Supervision.
+
+### Team Communication
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
-`Alternatives to: ...`
+`Alternatives to: Discord, Slack, ...`
 
-- [Compress.lol](https://compress.lol/) — Privacy-friendly online video compressor.🧠🔒🌐
-- [FFmpeg](https://ffmpeg.org/) — Command-line video and audio processing toolkit. 🧠💻🪟🍎🐧
-- [HandBrake](https://handbrake.fr/) — Open-source video transcoder. 🧠💻🪟🍎🐧
-- [VLC](https://www.videolan.org/) — Universal media player supporting all formats. 🧠💻🪟🍎🐧🍏📱
+- [Element](https://element.io/) — Decentralized Matrix-based messenger.🧠🔒🏠💻🪟🍎🐧🍏📱
+- [Mattermost](https://github.com/mattermost/mattermost) — Mattermost is an open source platform for secure collaboration 🧠🔒💻🪟🍎🐧🍏📱
+- [Rocket Chat](https://github.com/RocketChat/Rocket.Chat) — The ultimate secure open-source solution for team communications. 🧠🔒💻🪟🍎🐧🍏📱
 
-#### Torrent Clients
+### Text Editor
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Notepad, ...`
+
+- [Notepad++](https://notepad-plus-plus.org) — Free source code editor and Notepad replacement. 🧠🔒💻🪟
+- [Sublime Text](https://www.sublimetext.com/) — The sophisticated text editor for code, markup and prose. 💻🪟🍎🐧
+
+### Torrent Clients
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
@@ -450,38 +393,74 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 - [qBittorrent](https://www.qbittorrent.org/) — Lightweight, ad-free torrent client.🧠🔒💻🪟🍎🐧
 - [Transmission](https://transmissionbt.com/) — Minimal, secure torrent client. 🧠💻🪟🍎🐧
 
-#### Screenshot Tools
+### Two-Factor Authentication (2FA)
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
-`Alternatives to: Sniping Tool`
+`Alternatives to: Microsoft Authenticator, Google Authenticator, ...`
 
-- [Flameshot](https://flameshot.org/) — Powerful, yet simple to use open-source screenshot software. 🧠💻🪟🍎🐧
+- [Aegis](https://getaegis.app/) — Secure local 2FA app for Android. 🧠🔒📱
+- [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/) — Secure your accounts with trusted two-factor authentication. 🧠🔒🍏📱
+- [FreeOTP](https://freeotp.github.io/) — Two-factor authentication application for systems utilizing one-time password protocols. 🧠🍏📱
+- [Proton Authenticator](https://proton.me/fr/authenticator) — Encrypted 2FA app from Proton. 🔒🪟🍎🐧🍏📱
 
-### 🦾 Artificial Intelligence (AI)
-
-#### AI Image Generation / Editing
+### VPN
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
-`Alternatives to: Dall-E, ...`
+`Alternatives to: NordVPN, Surfshark VPN, ...`
 
-- [Fooocus](https://github.com/lllyasviel/Fooocus) — Focus on prompting and generating. 🧠💻🪟🍎🐧
-- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) — Stable Diffusion web UI. 🧠💻🪟🍎🐧
-- [Stable Diffusion](https://stabledifffusion.com/) — High-quality text-to-image model that turns your ideas into vivid, realistic visuals. 🌐
+- [Tailscale](https://tailscale.com/) — The easiest, most secure way to use WireGuard and 2FA. 🧠🔒💻🪟🍎🐧🍏📱
+- [OpenVPN](https://openvpn.net/) — Secure Access for Every Employee, Everywhere. 🧠🔒💻🪟🍎🐧🍏📱
+- [Wireguard](https://www.wireguard.com/) — Extremely simple yet fast and modern VPN. 🧠🔒💻🪟🍎🐧🍏📱
 
-#### Coding Agents
+### Video Compressing
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
 `Alternatives to: ...`
 
-- [Crush](https://github.com/charmbracelet/crush) — The glamorous AI coding agent for your favorite terminal. 🧠💻🪟🍎🐧
-- [OpenHands](https://github.com/OpenHands/OpenHands) — AI-Driven Development. 🧠🏠🪟🍎🐧
+- [Compress.lol](https://compress.lol/) — Privacy-friendly online video compressor.🧠🔒🌐
+- [FFmpeg](https://ffmpeg.org/) — Command-line video and audio processing toolkit. 🧠💻🪟🍎🐧
+- [HandBrake](https://handbrake.fr/) — Open-source video transcoder. 🧠💻🪟🍎🐧
+- [VLC](https://www.videolan.org/) — Universal media player supporting all formats. 🧠💻🪟🍎🐧🍏📱
 
-#### Speech Recognition
+### Video Conferencing
 
-- [Whisper](https://github.com/openai/whisper) — Robust Speech Recognition via Large-Scale Weak Supervision.
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Zoom, Microsoft Teams, ...`
+
+- [Brave Talk](https://talk.brave.com/) — Unlimited, private video calls. Right in the Brave browser. 🌐🔒
+- [Jitsi Meet](https://meet.jit.si/) — Free, encrypted video conferencing. 🧠🔒🏠🌐🍏📱
+- [Nextcloud Talk](https://nextcloud.com/talk/) — Private video chat integrated with Nextcloud. 🧠🔒🏠💻
+
+### Video Editing
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Premiere, ...`
+
+- [Kdenlive](https://kdenlive.org/) — Professional-grade video editor with multi-track editing and customizable effects. 🧠💻🪟🍎🐧
+- [Shotcut](https://shotcut.org/) — Cross-platform video editor with wide format support and advanced features. 🧠💻🪟🍎🐧
+
+### Web Search
+
+- [Brave Search](https://search.brave.com/) — A completely independent index without tracking. 🔒🌐🔮
+- [DuckDuckGo](https://duckduckgo.com/) — Privacy and avoiding the filter bubble of personalized results. 🌐🔮
+- [Startpage](https://www.startpage.com/) — The world’s most private search engine. 🔒🌐
+
+### World Maps
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Google Map, Apple Map, ...`
+
+- [MapLibre](https://maplibre.org/) — Open-source mapping library for developers. 🧠💻
+- [OpenStreetMap](https://www.openstreetmap.org/) — Open, editable map of the world. 🧠🏠💻
+- [Organic Maps](https://organicmaps.app/) — Offline privacy-friendly maps based on OSM. 🧠🔒💻
+- [OsmAnd](https://osmand.net/) — Offline navigation and map viewer using OSM data. 🧠🔒💻
+- [Comaps](https://www.comaps.app/) — Hike, Bike, Drive Offline and Navigate with Privacy. 🍏📱
 
 ## 📚 Resources
 
