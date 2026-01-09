@@ -46,6 +46,8 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
     - [Password Managers](#password-managers)
     - [Two-Factor Authentication (2FA)](#two-factor-authentication-2fa)
 - [🧰 Productivity](#-productivity)
+    - [Calculator](#calculator)
+    - [Text Editor](#text-editor)
     - [Code Development](#code-development)
     - [Document Writing](#document-writing)
     - [Note-Taking](#note-taking)
@@ -162,7 +164,7 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 
 `Alternatives to: Gmail, Outlook, ...`
 
-- [FairMail](https://email.faircode.eu/) _(Android)_ — Fully featured, privacy oriented email app for Android 🧠🔒📱
+- [FairMail](https://email.faircode.eu/) — Fully featured, privacy oriented email app for Android 🧠🔒📱
 - [Mailspring](https://getmailspring.com/) — Cross-platform email client with modern UI. 🧠💻🔮🪟🍎🐧
 - [Thunderbird](https://www.thunderbird.net/) — Secure open-source email client with encryption support. 🧠🔒💻🪟🍎🐧
 
@@ -249,10 +251,29 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 `Alternatives to: Microsoft Authenticator, Google Authenticator, ...`
 
 - [Aegis](https://getaegis.app/) — Secure local 2FA app for Android. 🧠🔒📱
+- [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/) — Secure your accounts with trusted two-factor authentication. 🧠🔒🍏📱
 - [FreeOTP](https://freeotp.github.io/) — Two-factor authentication application for systems utilizing one-time password protocols. 🧠🍏📱
 - [Proton Authenticator](https://proton.me/fr/authenticator) — Encrypted 2FA app from Proton. 🔒🪟🍎🐧🍏📱
 
 ### 🧰 Productivity
+
+#### Calculator
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Windows Calculator, ...`
+
+- [Geogebra](https://www.geogebra.org/) — Free digital tools graphing, geometry, collaborative whiteboard and more. 🌐
+- [Qalculate](https://qalculate.github.io) — The ultimate multi-purpose desktop calculator. 🧠🔒💻🪟🍎🐧
+
+#### Text Editor
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Notepad, ...`
+
+- [Notepad++](https://notepad-plus-plus.org) — Free source code editor and Notepad replacement. 🧠🔒💻🪟
+- [Sublime Text](https://www.sublimetext.com/) — The sophisticated text editor for code, markup and prose. 💻🪟🍎🐧
 
 #### Code Development
 
@@ -434,16 +455,17 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 
 ## 📚 Resources
 
-- [Privacy Guides Tools](https://www.privacyguides.org/en/tools/) — The collaborative privacy advocacy community.
-- [Privacy Tools](https://www.privacytools.io/) — Website for Encrypted Software & Apps.
-- [AlternativesTo](https://alternativeto.net/) — Find alternatives to software you know and discover new software.
+- [**Privacy Guides Tools**](https://www.privacyguides.org/en/tools/) — The collaborative privacy advocacy community.
+- [**Privacy Tools**](https://www.privacytools.io/) — Website for Encrypted Software & Apps.
+- [**AlternativesTo**](https://alternativeto.net/) — Find alternatives to software you know and discover new software.
 
-## Repositories
+## 🪣 Repositories
 
-Some other repositories :
+Some other repositories you may find useful :
 
-- [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) — A curated list of amazingly awesome open-source sysadmin resources.
-- [awesome-foss](https://codeberg.org/RayJW/awesome-foss) — A collection of all the FOSS to use or follow to keep track of privacy respecting alternatives.
+- [**awesome-sysadmin**](https://github.com/awesome-foss/awesome-sysadmin) — A curated list of amazingly awesome open-source sysadmin resources.
+- [**awesome-foss**](https://codeberg.org/RayJW/awesome-foss) — A collection of all the FOSS to use or follow to keep track of privacy respecting alternatives.
+- [**android-foss**](https://github.com/offa/android-foss) — A list of Free and Open Source Software (FOSS) for Android
 
 ## 📜 License
 
