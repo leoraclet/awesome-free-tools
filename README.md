@@ -10,7 +10,7 @@ This repository focuses on **quality over quantity**, listing only outstanding a
 
 ## 🎯 Purpose
 
-Most "Awesome" lists are overwhelming. This one is a **personal, curated collection** of the best tools I use or recommend — **open-source** and **privacy-friendly** by default.
+Most "Awesome" lists are overwhelming. This one is a **personal, curated collection** of the best tools I use or recommend — **open-source** and **privacy-friendly** primarly.
 
 ## 🔖 Legend
 
@@ -30,16 +30,19 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
     - [World Maps](#world-maps)
     - [Code Sharing](#code-sharing)
     - [Encrypted DNS](#encrypted-dns)
-        - [Server](#server)
-        - [Client](#client)
+        - [Servers](#servers)
+        - [Clients](#clients)
     - [Remote Desktop / VNC](#remote-desktop--vnc)
     - [Browsers](#browsers)
     - [Web Search](#web-search)
     - [Email Clients](#email-clients)
+    - [Email Aliases](#email-aliases)
     - [File Sharing](#file-sharing)
     - [Messaging Apps](#messaging-apps)
+    - [Team Communication](#team-communication)
     - [Video Conferencing](#video-conferencing)
     - [Download Manager](#download-manager)
+    - [VPN](#vpn)
 - [💾 Storage \& Security](#-storage--security)
     - [Cloud Storage](#cloud-storage)
     - [Encryption Tools](#encryption-tools)
@@ -107,6 +110,7 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 - [OpenStreetMap](https://www.openstreetmap.org/) — Open, editable map of the world. 🧠🏠💻
 - [Organic Maps](https://organicmaps.app/) — Offline privacy-friendly maps based on OSM. 🧠🔒💻
 - [OsmAnd](https://osmand.net/) — Offline navigation and map viewer using OSM data. 🧠🔒💻
+- [Comaps](https://www.comaps.app/) — Hike, Bike, Drive Offline and Navigate with Privacy. 🍏📱
 
 #### Code Sharing
 
@@ -123,14 +127,14 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 
 `Alternatives to: Google DNS, Windows DNS, ...`
 
-##### Server
+##### Servers
 
-- [Cloudfare](https://one.one.one.one/) — High Performance DNS Resolver.
-- [Quad9](https://quad9.net/0) — An open DNS recursive service for free security and high privacy
+- [Cloudfare](https://one.one.one.one/) — High Performance DNS Resolver. 🌐
+- [Quad9](https://quad9.net/0) — An open DNS recursive service for free security and high privacy. 🌐
 
-##### Client
+##### Clients
 
-- [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) — A flexible DNS proxy, with support for encrypted DNS protocols.
+- [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) — A flexible DNS proxy, with support for encrypted DNS protocols. 🧠💻🐧🪟🍎
 
 #### Remote Desktop / VNC
 
@@ -155,8 +159,9 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 
 #### Web Search
 
-- [Brave Search](https://search.brave.com/) — A completely independent index without tracking. 🌐🔮
+- [Brave Search](https://search.brave.com/) — A completely independent index without tracking. 🔒🌐🔮
 - [DuckDuckGo](https://duckduckgo.com/) — Privacy and avoiding the filter bubble of personalized results. 🌐🔮
+- [Startpage](https://www.startpage.com/) — The world’s most private search engine. 🔒🌐
 
 #### Email Clients
 
@@ -167,6 +172,11 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 - [FairMail](https://email.faircode.eu/) — Fully featured, privacy oriented email app for Android 🧠🔒📱
 - [Mailspring](https://getmailspring.com/) — Cross-platform email client with modern UI. 🧠💻🔮🪟🍎🐧
 - [Thunderbird](https://www.thunderbird.net/) — Secure open-source email client with encryption support. 🧠🔒💻🪟🍎🐧
+
+#### Email Aliases
+
+- [Addy.io](https://addy.io/) — Anonymous Email Forwarding. 🌐🍏📱
+- [SimpleLogin](https://simplelogin.io/) — Open source anonymous email service. 🌐🍎🍏📱
 
 #### File Sharing
 
@@ -190,6 +200,16 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 - [Session](https://getsession.org/) — Anonymous decentralized messenger. 🧠🔒💻🪟🍎🐧🍏📱
 - [Signal](https://signal.org/) — Secure end-to-end encrypted messaging app. 🧠🔒💻🪟🍎🐧🍏📱
 
+#### Team Communication
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Discord, Slack, ...`
+
+- [Element](https://element.io/) — Decentralized Matrix-based messenger.🧠🔒🏠💻🪟🍎🐧🍏📱
+- [Mattermost](https://github.com/mattermost/mattermost) — Mattermost is an open source platform for secure collaboration 🧠🔒💻🪟🍎🐧🍏📱
+- [Rocket Chat](https://github.com/RocketChat/Rocket.Chat) — The ultimate secure open-source solution for team communications. 🧠🔒💻🪟🍎🐧🍏📱
+
 #### Video Conferencing
 
 [**`^        back to top        ^`**](#-table-of-contents)
@@ -208,6 +228,16 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 
 - [Brisk](https://github.com/BrisklyDev/brisk) — Ultra-fast, modern download manager for desktop. 🧠🍎💻🐧
 - [Motrix](https://github.com/agalwood/Motrix) — A full-featured download manager. 🧠🍎💻🐧
+
+#### VPN
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: NordVPN, Surfshark VPN, ...`
+
+- [Tailscale](https://tailscale.com/) — The easiest, most secure way to use WireGuard and 2FA. 🧠🔒💻🪟🍎🐧🍏📱
+- [OpenVPN](https://openvpn.net/) — Secure Access for Every Employee, Everywhere. 🧠🔒💻🪟🍎🐧🍏📱
+- [Wireguard](https://www.wireguard.com/) — Extremely simple yet fast and modern VPN. 🧠🔒💻🪟🍎🐧🍏📱
 
 ### 💾 Storage & Security
 
