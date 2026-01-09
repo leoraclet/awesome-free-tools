@@ -56,6 +56,7 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 - [Screenshot Tools](#screenshot-tools)
 - [Speech Recognition](#speech-recognition)
 - [Team Communication](#team-communication)
+- [Terminals](#terminals)
 - [Text Editor](#text-editor)
 - [Torrent Clients](#torrent-clients)
 - [Two-Factor Authentication (2FA)](#two-factor-authentication-2fa)
@@ -374,6 +375,16 @@ You can find the tools you need by browsing the appropriate category or by searc
 - [Element](https://element.io/) — Decentralized Matrix-based messenger.🧠🔒🏠💻🪟🍎🐧🍏📱
 - [Mattermost](https://github.com/mattermost/mattermost) — Mattermost is an open source platform for secure collaboration 🧠🔒💻🪟🍎🐧🍏📱
 - [Rocket Chat](https://github.com/RocketChat/Rocket.Chat) — The ultimate secure open-source solution for team communications. 🧠🔒💻🪟🍎🐧🍏📱
+
+### Terminals
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Windows Terminal, CMD, ...`
+
+- [Kitty](https://sw.kovidgoyal.net/kitty/) — The fast, feature-rich, GPU based terminal emulator. 🧠🔒💻🍎🐧
+- [Alacritty](https://alacritty.org/) — A cross-platform, OpenGL terminal emulator. 🧠🔒💻🪟🍎🐧
+- [Ghostty](https://ghostty.org/) — Fast, feature-rich, and cross-platform terminal emulator. 🧠🔒💻🍎🐧
 
 ### Text Editor
 
