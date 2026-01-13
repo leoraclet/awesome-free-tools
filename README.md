@@ -529,6 +529,7 @@ Some other repositories you may find useful :
 - [**awesome-sysadmin**](https://github.com/awesome-foss/awesome-sysadmin) — A curated list of amazingly awesome open-source sysadmin resources.
 - [**awesome-foss**](https://codeberg.org/RayJW/awesome-foss) — A collection of all the FOSS to use or follow to keep track of privacy respecting alternatives.
 - [**android-foss**](https://github.com/offa/android-foss) — A list of Free and Open Source Software (FOSS) for Android
+- [**awesome-ai**](https://github.com/openbestof/awesome-ai) — A curated list of awesome AI tools, frameworks, api, software and resources.
 
 ## 📜 License
 
