@@ -23,49 +23,56 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 
 ## 📚 Table of contents
 
-- [3D Modeling](#3d-modeling)
-- [3D Slicing](#3d-slicing)
-- [AI Image Generation / Editing](#ai-image-generation--editing)
-- [Browsers](#browsers)
-- [CAD \& PCB Design](#cad--pcb-design)
-- [Calculator](#calculator)
-- [Cloud Storage](#cloud-storage)
-- [Code Development](#code-development)
-- [Code Sharing](#code-sharing)
-- [Coding Agents](#coding-agents)
-- [Document Writing](#document-writing)
-- [Download Manager](#download-manager)
-- [Drawing](#drawing)
-- [Email Aliases](#email-aliases)
-- [Email Clients](#email-clients)
-- [Encrypted DNS](#encrypted-dns)
-    - [Servers](#servers)
-    - [Clients](#clients)
-- [Encryption Tools](#encryption-tools)
-- [File Sharing](#file-sharing)
-- [Image Editing](#image-editing)
-- [Media Players](#media-players)
-- [Messaging Apps](#messaging-apps)
-- [Note-Taking](#note-taking)
-- [Operating Systems](#operating-systems)
-- [PDF Tools](#pdf-tools)
-- [Password Managers](#password-managers)
-- [Phone OS](#phone-os)
-- [Remote Desktop / VNC](#remote-desktop--vnc)
-- [Screen Recorders](#screen-recorders)
-- [Screenshot Tools](#screenshot-tools)
-- [Speech Recognition](#speech-recognition)
-- [Team Communication](#team-communication)
-- [Terminals](#terminals)
-- [Text Editor](#text-editor)
-- [Torrent Clients](#torrent-clients)
-- [Two-Factor Authentication (2FA)](#two-factor-authentication-2fa)
-- [VPN](#vpn)
-- [Video Compressing](#video-compressing)
-- [Video Conferencing](#video-conferencing)
-- [Video Editing](#video-editing)
-- [Web Search](#web-search)
-- [World Maps](#world-maps)
+- [🎯 Purpose](#-purpose)
+- [🔖 Legend](#-legend)
+- [📚 Table of contents](#-table-of-contents)
+- [🔭 Tools](#-tools)
+    - [3D Modeling](#3d-modeling)
+    - [3D Slicing](#3d-slicing)
+    - [AI Image Generation / Editing](#ai-image-generation--editing)
+    - [Browsers](#browsers)
+    - [CAD \& PCB Design](#cad--pcb-design)
+    - [Calculator](#calculator)
+    - [Cloud Storage](#cloud-storage)
+    - [Code Development](#code-development)
+    - [Code Sharing](#code-sharing)
+    - [Coding Agents](#coding-agents)
+    - [Document Writing](#document-writing)
+    - [Download Manager](#download-manager)
+    - [Drawing](#drawing)
+    - [Email Aliases](#email-aliases)
+    - [Email Clients](#email-clients)
+    - [Encrypted DNS](#encrypted-dns)
+        - [Servers](#servers)
+        - [Clients](#clients)
+    - [Encryption Tools](#encryption-tools)
+    - [File Sharing](#file-sharing)
+    - [Image Editing](#image-editing)
+    - [Media Players](#media-players)
+    - [Messaging Apps](#messaging-apps)
+    - [Note-Taking](#note-taking)
+    - [Operating Systems](#operating-systems)
+    - [PDF Tools](#pdf-tools)
+    - [Password Managers](#password-managers)
+    - [Phone OS](#phone-os)
+    - [Remote Desktop / VNC](#remote-desktop--vnc)
+    - [Screen Recorders](#screen-recorders)
+    - [Screenshot Tools](#screenshot-tools)
+    - [Speech Recognition](#speech-recognition)
+    - [Team Communication](#team-communication)
+    - [Terminals](#terminals)
+    - [Text Editor](#text-editor)
+    - [Torrent Clients](#torrent-clients)
+    - [Two-Factor Authentication (2FA)](#two-factor-authentication-2fa)
+    - [VPN](#vpn)
+    - [Video Compressing](#video-compressing)
+    - [Video Conferencing](#video-conferencing)
+    - [Video Editing](#video-editing)
+    - [Web Search](#web-search)
+    - [World Maps](#world-maps)
+- [📚 Resources](#-resources)
+- [🪣 Repositories](#-repositories)
+- [📜 License](#-license)
 
 ## 🔭 Tools
 
@@ -200,6 +207,10 @@ You can find the tools you need by browsing the appropriate category or by searc
 
 ### Email Aliases
 
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: ...`
+
 - [Addy.io](https://addy.io/) — Anonymous Email Forwarding. 🌐🍏📱
 - [SimpleLogin](https://simplelogin.io/) — Open source anonymous email service. 🌐🍎🍏📱
 
@@ -312,7 +323,9 @@ You can find the tools you need by browsing the appropriate category or by searc
 
 `Alternatives to: Adobe Acrobat, ...`
 
-- [Stirling](https://github.com/Stirling-Tools/Stirling-PDF/) — Web-based PDF tool suite for editing and conversion. 🧠💻
+- [Stirling](https://github.com/Stirling-Tools/Stirling-PDF/) — Web-based PDF tool suite for editing and conversion. 🧠💻🪟🍎🐧🌐
+- [PDFSam](https://github.com/torakiki/pdfsam) — A desktop application to split, merge, mix, rotate PDF files and extract pages. 🧠💻🪟🍎🐧
+- [SumatraPDF](https://github.com/sumatrapdfreader/sumatrapdf) — A multi-format reader for Windows under (A)GPLv3 license, with some code under BSD license. 🧠💻🪟
 
 ### Password Managers
 
@@ -363,6 +376,10 @@ You can find the tools you need by browsing the appropriate category or by searc
 - [Flameshot](https://flameshot.org/) — Powerful, yet simple to use open-source screenshot software. 🧠💻🪟🍎🐧
 
 ### Speech Recognition
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: ...`
 
 - [Whisper](https://github.com/openai/whisper) — Robust Speech Recognition via Large-Scale Weak Supervision.
 
@@ -452,12 +469,16 @@ You can find the tools you need by browsing the appropriate category or by searc
 
 [**`^        back to top        ^`**](#-table-of-contents)
 
-`Alternatives to: Premiere, ...`
+`Alternatives to: Premiere, Davinci Resolve, ...`
 
 - [Kdenlive](https://kdenlive.org/) — Professional-grade video editor with multi-track editing and customizable effects. 🧠💻🪟🍎🐧
 - [Shotcut](https://shotcut.org/) — Cross-platform video editor with wide format support and advanced features. 🧠💻🪟🍎🐧
 
 ### Web Search
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: Google Search, Bing, Yahoo, ...`
 
 - [Brave Search](https://search.brave.com/) — A completely independent index without tracking. 🔒🌐🔮
 - [DuckDuckGo](https://duckduckgo.com/) — Privacy and avoiding the filter bubble of personalized results. 🌐🔮

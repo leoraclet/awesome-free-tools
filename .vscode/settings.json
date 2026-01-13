@@ -7,7 +7,7 @@
     },
     "markdown.extension.list.indentationSize": "inherit",
     "markdown.extension.showActionButtons": true,
-    "markdown.extension.toc.levels": "3..6",
+    "markdown.extension.toc.levels": "2..6",
     "markdown.extension.toc.omittedFromToc": {
         "README.md": [
             "## Table of contents"
