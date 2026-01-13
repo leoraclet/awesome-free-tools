@@ -48,6 +48,7 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
     - [Encryption Tools](#encryption-tools)
     - [File Sharing](#file-sharing)
     - [Image Editing](#image-editing)
+    - [LLMs Backend](#llms-backend)
     - [Media Players](#media-players)
     - [Messaging Apps](#messaging-apps)
     - [Note-Taking](#note-taking)
@@ -273,6 +274,16 @@ You can find the tools you need by browsing the appropriate category or by searc
 - [Krita](https://krita.org/) — Digital painting and illustration software with advanced brush tools. 🧠💻🪟🍎🐧
 - [Photopea](https://www.photopea.com/) — Web-based image editor with Photoshop-like features. 🧠🌐
 
+### LLMs Backend
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: ...`
+
+- [GPT4All](https://github.com/nomic-ai/gpt4all) — Run Local LLMs on Any Device. 🧠🏠💻🪟🍎🐧
+- [llama.cpp](https://github.com/ggml-org/llama.cpp) — LLM inference in C/C++. 🧠🏠💻🪟🍎🐧
+- [Ollama](https://github.com/ollama/ollama) — Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models. 🧠🏠💻🪟🍎🐧
+
 ### Media Players
 
 [**`^        back to top        ^`**](#-table-of-contents)
@@ -381,7 +392,7 @@ You can find the tools you need by browsing the appropriate category or by searc
 
 `Alternatives to: ...`
 
-- [Whisper](https://github.com/openai/whisper) — Robust Speech Recognition via Large-Scale Weak Supervision.
+- [Whisper](https://github.com/openai/whisper) — Robust Speech Recognition via Large-Scale Weak Supervision. 🧠💻🪟🍎🐧
 
 ### Team Communication
 
