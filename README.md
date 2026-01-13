@@ -49,6 +49,7 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
     - [File Sharing](#file-sharing)
     - [Image Editing](#image-editing)
     - [LLMs Backend](#llms-backend)
+    - [LLMs ChatUI](#llms-chatui)
     - [Media Players](#media-players)
     - [Messaging Apps](#messaging-apps)
     - [Note-Taking](#note-taking)
@@ -283,6 +284,14 @@ You can find the tools you need by browsing the appropriate category or by searc
 - [GPT4All](https://github.com/nomic-ai/gpt4all) — Run Local LLMs on Any Device. 🧠🏠💻🪟🍎🐧
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) — LLM inference in C/C++. 🧠🏠💻🪟🍎🐧
 - [Ollama](https://github.com/ollama/ollama) — Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models. 🧠🏠💻🪟🍎🐧
+
+### LLMs ChatUI
+
+[**`^        back to top        ^`**](#-table-of-contents)
+
+`Alternatives to: ...`
+
+- [Open WebUI](https://github.com/open-webui/open-webui) — An extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline. 🧠🏠🪟🍎🐧
 
 ### Media Players
 
