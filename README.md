@@ -196,6 +196,7 @@ You can find the tools you need by browsing the appropriate category or by searc
 
 - [Brisk](https://github.com/BrisklyDev/brisk) — Ultra-fast, modern download manager for desktop. 🧠🍎💻🐧
 - [Motrix](https://github.com/agalwood/Motrix) — A full-featured download manager. 🧠🍎💻🐧
+- [JDownloader](https://jdownloader.org/) — A free, open-source download management tool. 🧠🍎💻🐧
 
 ### Drawing
 
