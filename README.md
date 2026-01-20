@@ -520,6 +520,7 @@ You can find the tools you need by browsing the appropriate category or by searc
 
 ## 📚 Resources
 
+- [**freemediaheckyeah**](https://fmhy.net/) — The largest collection of free stuff on the internet!
 - [**Privacy Guides Tools**](https://www.privacyguides.org/en/tools/) — The collaborative privacy advocacy community.
 - [**Privacy Tools**](https://www.privacytools.io/) — Website for Encrypted Software & Apps.
 - [**AlternativesTo**](https://alternativeto.net/) — Find alternatives to software you know and discover new software.
