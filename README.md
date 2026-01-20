@@ -395,6 +395,7 @@ You can find the tools you need by browsing the appropriate category or by searc
 `Alternatives to: Sniping Tool`
 
 - [Flameshot](https://flameshot.org/) — Powerful, yet simple to use open-source screenshot software. 🧠💻🪟🍎🐧
+- [CodeSnap](https://github.com/kufii/CodeSnap) — 📸 Take beautiful screenshots of your code in VS Code! 🧠💻🪟🍎🐧
 
 ### Speech Recognition
 
