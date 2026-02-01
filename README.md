@@ -134,6 +134,7 @@ You can find the tools you need by browsing the appropriate category or by searc
 
 `Alternatives to: Windows Calculator, ...`
 
+- [Desmos](https://www.desmos.com/matrix) — Online Graphic and more calculator. 🌐
 - [Geogebra](https://www.geogebra.org/) — Free digital tools graphing, geometry, collaborative whiteboard and more. 🌐
 - [Qalculate](https://qalculate.github.io) — The ultimate multi-purpose desktop calculator. 🧠🔒💻🪟🍎🐧
 
