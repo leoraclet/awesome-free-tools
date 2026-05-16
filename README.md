@@ -1,4 +1,10 @@
-# 💸 Awesome Free Tools
+
+
+---
+
+## 🌐 All-in-One Tool Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools: PDF (merge, split, compress, sign, OCR, redact), image (background removal, resize), video to GIF, QR codes, invoices, JSON formatter. Files never leave your device.# 💸 Awesome Free Tools
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/leoraclet/awesome-free-tools)](https://github.com/leoraclet/awesome-free-tools/issues)
