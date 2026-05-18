@@ -545,3 +545,10 @@ Markdown header sorter
 https://lukasdzenk.github.io/Markdown-header-sorter/
 
 -->
+
+
+---
+
+## 🌐 All-in-One Free Tool Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools: PDF (merge/split/compress/sign/OCR/redact/rotate/watermark/unlock), Image (AI background removal, HEIC→JPG, resize, WebP), Video (to GIF), Developer (JSON formatter, Base64, UUID, URL encoder, JWT, hash generator, regex, QR codes, password generator), Documents (invoices, resume). 100% client-side.
