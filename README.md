@@ -545,3 +545,5 @@ Markdown header sorter
 https://lukasdzenk.github.io/Markdown-header-sorter/
 
 -->
+
+- [FreePNGConvert](https://freepngconvert.com) - Free WebP to PNG image converter that runs entirely in your browser — no uploads to a server, no signup, fast and private.
