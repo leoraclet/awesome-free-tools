@@ -136,6 +136,7 @@ You can find the tools you need by browsing the appropriate category or by searc
 
 - [Desmos](https://www.desmos.com/matrix) — Online Graphic and more calculator. 🌐
 - [Geogebra](https://www.geogebra.org/) — Free digital tools graphing, geometry, collaborative whiteboard and more. 🌐
+- [Concrete Estimator Hub](https://concreteestimatorhub.com/) — Free concrete calculators for slabs, bag counts, ready-mix comparisons, footings, post holes, and cost planning. 🌐
 - [Qalculate](https://qalculate.github.io) — The ultimate multi-purpose desktop calculator. 🧠🔒💻🪟🍎🐧
 
 ### Cloud Storage
