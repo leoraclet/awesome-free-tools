@@ -545,3 +545,8 @@ Markdown header sorter
 https://lukasdzenk.github.io/Markdown-header-sorter/
 
 -->
+
+## Web utilities
+
+- **[Vaytric Link Health](https://vaytric.com/link-health/)** — Free multi-URL broken link checker (HTTP status + titles).
+
