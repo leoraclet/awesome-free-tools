@@ -326,6 +326,7 @@ You can find the tools you need by browsing the appropriate category or by searc
 - [Logseq](https://logseq.com/) — Open-source local-first note-taking tool. 🧠🔒🏠💻🪟🍎🐧🍏📱
 - [Obsidian](https://obsidian.md/) — Markdown-based knowledge base app. 💻🪟🍎🐧🍏📱
 - [Standard Notes](https://standardnotes.com/) — Privacy-focused encrypted notes app. 🔒💻🪟🍎🐧🍏📱
+- [TopicSplit](https://github.com/andrwspt/topicsplit) — Free, offline semantic text grouper. Splits pasted text into topic segments by meaning, not word count. Perfect for Obsidian, Logseq, Notion, PKM workflows. 🌐🔒🧠
 
 ### Operating Systems
 
