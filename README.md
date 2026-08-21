@@ -137,6 +137,9 @@ You can find the tools you need by browsing the appropriate category or by searc
 - [Desmos](https://www.desmos.com/matrix) — Online Graphic and more calculator. 🌐
 - [Geogebra](https://www.geogebra.org/) — Free digital tools graphing, geometry, collaborative whiteboard and more. 🌐
 - [Qalculate](https://qalculate.github.io) — The ultimate multi-purpose desktop calculator. 🧠🔒💻🪟🍎🐧
+- [WattsCalc](https://wattscalc.com) — Free wattage and electricity cost calculator. 🌐
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com) — Free calculator for lawn mowing cost estimates. 🌐
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) — Free embroidery job pricing from stitches, fabric, and labor. 🌐
 
 ### Cloud Storage
 
@@ -177,6 +180,7 @@ You can find the tools you need by browsing the appropriate category or by searc
 
 - [Crush](https://github.com/charmbracelet/crush) — The glamorous AI coding agent for your favorite terminal. 🧠💻🪟🍎🐧
 - [OpenHands](https://github.com/OpenHands/OpenHands) — AI-Driven Development. 🧠🏠🪟🍎🐧
+- [Codex Theme Builder](https://codextheme.tools) — Free browser theme builder for OpenAI Codex. 🌐
 
 ### Document Writing
 
@@ -208,6 +212,7 @@ You can find the tools you need by browsing the appropriate category or by searc
 - [Excalidraw](https://excalidraw.com/) — Collaborative whiteboard for diagrams. 🧠🏠💻🌐
 - [Inkscape](https://inkscape.org/) — Professional vector graphics editor. 🧠💻🪟🍎🐧
 - [Krita](https://krita.org/) — Digital painting software for artists. 🧠💻🪟🍎🐧
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com) — Convert images into crochet patterns in the browser. 🌐
 
 ### Email Aliases
 
