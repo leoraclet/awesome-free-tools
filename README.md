@@ -23,6 +23,7 @@ Most "Awesome" lists are overwhelming. This one is a **personal, curated collect
 
 ## 📚 Table of contents
 
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only freelance tools: invoice, quote, delivery note, work order, receipt, SOW, and more (MIT, no signup).
 - [🎯 Purpose](#-purpose)
 - [🔖 Legend](#-legend)
 - [📚 Table of contents](#-table-of-contents)
