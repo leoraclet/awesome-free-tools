@@ -137,6 +137,7 @@ You can find the tools you need by browsing the appropriate category or by searc
 - [Desmos](https://www.desmos.com/matrix) — Online Graphic and more calculator. 🌐
 - [Geogebra](https://www.geogebra.org/) — Free digital tools graphing, geometry, collaborative whiteboard and more. 🌐
 - [Qalculate](https://qalculate.github.io) — The ultimate multi-purpose desktop calculator. 🧠🔒💻🪟🍎🐧
+- [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) — Free U.S. roof replacement cost calculator with planning ranges by size, material, tear-off, and location. 🌐
 
 ### Cloud Storage
 
