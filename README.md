@@ -276,6 +276,7 @@ You can find the tools you need by browsing the appropriate category or by searc
 - [GIMP](https://www.gimp.org/) — Powerful raster graphics editor for photo retouching and image manipulation. 🧠💻🪟🍎🐧
 - [Krita](https://krita.org/) — Digital painting and illustration software with advanced brush tools. 🧠💻🪟🍎🐧
 - [Photopea](https://www.photopea.com/) — Web-based image editor with Photoshop-like features. 🧠🌐
+- [My Nine Games](https://myninegames.com/) — Free browser maker for a personal 3×3 games collage with PNG export. 🧠🌐
 
 ### LLMs Backend
 
