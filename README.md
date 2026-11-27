@@ -348,6 +348,7 @@ You can find the tools you need by browsing the appropriate category or by searc
 - [Stirling](https://github.com/Stirling-Tools/Stirling-PDF/) — Web-based PDF tool suite for editing and conversion. 🧠💻🪟🍎🐧🌐
 - [PDFSam](https://github.com/torakiki/pdfsam) — A desktop application to split, merge, mix, rotate PDF files and extract pages. 🧠💻🪟🍎🐧
 - [SumatraPDF](https://github.com/sumatrapdfreader/sumatrapdf) — A multi-format reader for Windows under (A)GPLv3 license, with some code under BSD license. 🧠💻🪟
+- [FreeAppsHub](https://free-apps-hub.pages.dev/) — Free in-browser PDF tools (merge, split, compress) that run fully client-side — files never leave your browser, no signup. 🔒🌐
 
 ### Password Managers
 
